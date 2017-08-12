@@ -1,0 +1,3965 @@
+umlsId	name
+C1263960	Diabetic coma
+C0424109	Tearfulness
+C0009421	Coma
+C0854107	Haemorrhage subcutaneous
+C0235906	Bronchospasm aggravated
+C0857305	Thrombocytopenic purpura
+C2584688	Testicular swelling
+C0006370	Bulimia
+C0040485	Torticollis
+C0338614	Psychotic episode
+C0151998	Uterine spasm
+C1619712	Procedural pain
+C0041969	Urethral disorder
+C1608953	Intestinal diaphragm disease
+C0242225	Colour blindness
+C0853026	Porphyria non-acute
+C0854382	Libido disorder
+C0079102	Cerebral thrombosis
+C0018794	Block heart
+C0151810	Lack of drug effect
+C0277885	Blood pressure systolic decreased
+C0040479	Torsade de pointes
+C0311394	Walking disability
+C0151598	Drug level decreased
+C1168034	Gastric pH decreased
+C0948296	Ear discomfort
+C0241558	Urethral haemorrhage
+C0035460	Vasomotor rhinitis
+C0029191	Orchitis
+C0549386	Sensation of warmth
+C0235280	Ototoxicity
+C0439857	Dependence
+C3495920	Lacrimal structural disorder
+C0018801	Cardiac failure
+C0422980	Oscillopsia
+C0010399	Crying
+C3160944	Vulvovaginal swelling
+C1565662	Acute renal insufficiency
+C0030354	Papilloma
+C1619700	Renal aplasia
+C0033036	Supraventricular extrasystoles
+C0857353	Hypotensive
+C0151622	Endometrial disorder
+C0948085	Corneal defect
+C0853326	Dyspnoea exacerbated
+C0008031	Chest pain
+C0151878	Electrocardiogram QT prolonged
+C0027932	Neurosis
+C0035333	Retinitis
+C0600139	Prostate carcinoma
+C0857177	Arthritic pains
+C1262170	Herpes dermatitis
+C0016397	Localised infection
+C0269002	Penile haemorrhage
+C0151605	Injection site swelling
+C0242362	Intervertebral disc protrusion
+C0038354	Gastric disorder
+C1557335	Ocular surface disease
+C0239725	Genital pain
+C0743668	Limb injury
+C0042994	Vulval disorder
+C0023052	Laryngeal oedema
+C0017411	Genital disorder female
+C0231919	Nasal dryness
+C1260926	Abnormal pigmentation
+C0020625	Hyponatraemia
+C0271308	Blepharitis allergic
+C0541799	Bad taste
+C0236082	Vaginal pain
+C0151611	Electroencephalogram abnormal
+C1262036	Ocular toxicity
+C0007860	Cervicitis
+C0006111	Brain disorder NOS
+C0238242	Lithium toxicity
+C0853924	Tinnitus aggravated
+C0026838	Muscle spasticity
+C0853698	Lymphocyte count increased
+C0852388	Visual colour distortions
+C0155305	Optic ischaemic neuropathy
+C0017605	Angle closure glaucoma
+C0521510	Implant site reaction
+C0018946	Subdural haematoma
+C0027868	Neuromyopathy
+C0221185	Xanthopsia
+C0854706	Neonatal infection
+C1527383	Morphoea
+C0031154	Peritonitis
+C0033931	Psychosomatic disease
+C0428982	Nodal tachycardia
+C0278488	Breast cancer stage IV
+C1268766	Change in blood pressure
+C0022575	Keratoconjunctivitis sicca
+C0153349	Tongue neoplasm malignant stage unspecified
+C0849916	Generalised erythema
+C0270274	Vomiting neonatal
+C0152159	Uterine hypotonus
+C0034882	Rectal disorder
+C1112274	Genital discharge
+C1167870	Graft dysfunction
+C0151618	Embolus leg
+C0740299	Blood culture positive
+C0435630	Wrist fracture
+C0007113	Rectal cancer
+C0151888	Hyporeflexia
+C0854303	Limb discomfort
+C0037383	Sneezing
+C0014173	Endometrial hyperplasia
+C0232808	Shutdown renal
+C0151908	Dry skin
+C0003079	Pupils unequal
+C1262144	Increased bronchial secretion
+C0013298	Duodenitis
+C0006266	Bronchospasm
+C0009782	Connective tissue disorder
+C0221436	Melanoderma
+C0022116	Ischaemia
+C0009806	Constipation
+C0151996	Uterine fibroids enlarged
+C0853118	Blood testosterone increased
+C0549493	Alveolitis
+C0242698	Left ventricular dysfunction
+C0025160	Megacolon
+C0857144	Metastatic pain
+C1142135	Muscle relaxant therapy
+C0581164	Digoxin level increased
+C0234925	Oily skin
+C0027627	Metastasis
+C1096185	Dacryostenosis acquired
+C0039520	Tenosynovitis
+C0856069	Vasculitis gastrointestinal
+C0235433	Fat tissue increased
+C0018965	Haematuria
+C0008489	Chorea
+C0376358	Prostate cancer
+C0267465	Intestinal stenosis
+C0007078	Carbuncle
+C0877117	Cytomegalovirus gastritis
+C0002624	Retrograde amnesia
+C0852711	Hand and foot syndrome secondary to sickle cell anaemia
+C0740314	Ultrasound breast abnormal
+C0267373	Intestinal haemorrhage
+C0040460	Toothache
+C0151625	Enzyme abnormality
+C0575081	Gait disturbance
+C0520477	Prostatic adenoma
+C0595879	Sodium high
+C0432487	Post transplant lymphoproliferative disorder
+C0233763	Hallucination	 visual
+C0152020	Gastric atony
+C1096195	Thyroglobulin increased
+C0039503	Tendonitis
+C0541919	Dystonic reaction
+C0009081	Congenital clubfoot
+C0030662	Pathological gambling
+C0221165	Diplegia
+C0265547	Limb reduction defect
+C0004690	Balanitis
+C0401013	Fungal peritonitis
+C0920102	Phosphorus low
+C0030781	Peliosis hepatis
+C0235966	Dreaming excessive
+C0239293	Oesophageal haemorrhage
+C0156279	Urethral syndrome
+C0341742	Acute retention of urine
+C0853777	Blood albumin decreased
+C0008626	Cytogenetic abnormality
+C1096460	Infusion site phlebitis
+C0581912	Sensation of heaviness
+C1306587	Encephalopathy acute
+C0270611	Brain injury
+C0086525	Lassitude
+C0023474	Chronic phase chronic myeloid leukemia
+C1096035	Infusion site pain
+C0392034	Gastrooesophagitis
+C0162566	Porphyria cutanea tarda
+C0677500	Stinging
+C0857448	Serum urea increased
+C0240671	Activated partial thromboplastin time prolonged
+C0856054	Mental status changes
+C0595861	Parasuicide
+C2747793	Acute phosphate nephropathy
+C0234967	Choreoathetoid movements
+C0232849	Bladder pain
+C0221264	Cheilosis
+C0043246	Laceration
+C0085633	Mood swings
+C0032131	Plasmacytoma
+C1956391	Temporal arteritis
+C0851807	Aspergillus infection
+C2173677	Renal cyst
+C0015256	Excoriation
+C0271298	Chemosis
+C0085580	Essential hypertension
+C0859290	Black spot
+C0030318	Panic reaction
+C0151315	Neck stiffness
+C0497365	Rash generalised
+C0233612	Waxy flexibility
+C0342406	Pituitary haemorrhage
+C0233459	Emotional disorder
+C0576702	Lhermitte's sign
+C0156318	Breast fibrosis
+C0033038	Premature ejaculation
+C0038218	Status asthmaticus
+C0005395	Bile duct disorders
+C0341335	Cytomegalovirus colitis
+C0013390	Dysmenorrhoea
+C0023487	Acute promyelocytic leukaemia
+C0277919	Post thrombotic syndrome
+C0235656	Uterine cervical lesion
+C0009443	Common cold
+C1504379	Coagulation test abnormal
+C0858794	Application site warmth
+C0020039	Hostility
+C0151563	Coagulation time prolonged
+C0854114	Corneal epithelium defect
+C0016242	Vitreous floaters
+C1112773	Post procedural diarrhoea
+C0429468	Anovulatory cycle
+C0029132	Optic nerve disorder
+C0008909	Claustrophobia
+C0151701	Pulmonary haemorrhage
+C0235753	Haemangioma congenital
+C0423736	Micturition burning
+C0005940	Bone disorder
+C0343401	Methicillin-resistant Staphylococcus aureus infection
+C0035229	Respiratory insufficiency
+C0014866	Oesophageal stenosis
+C0521620	Hydroureter
+C1527311	Brain oedema
+C0687133	Drug interaction
+C0312422	Blacked-out (not amnesia)
+C0025323	Menorrhagia
+C0041296	Tuberculosis
+C0149771	Rectocele
+C0272285	Heparin-induced thrombocytopenia
+C0281774	Acute psychosis
+C0029124	Optic atrophy
+C0241379	Increased thirst
+C0011880	Diabetic ketoacidosis
+C0858589	Coordination disturbance
+C0233795	Anterograde amnesia
+C0023890	Hepatic cirrhosis
+C0005778	Clotting
+C0019825	Hoarseness
+C0026848	Myopathy
+C0028081	Night sweats
+C0595885	Serum potassium decreased
+C0028866	IIIrd nerve paralysis
+C0392525	Nephrolithiasis
+C0011334	Dental caries
+C0232940	Amenorrhea secondary
+C0277925	Peripheral coldness
+C0221742	Serum sickness-like reaction
+C0038379	Strabismus
+C0033844	Pseudotumor
+C1142248	Pseudomononucleosis
+C0264545	Pleural thickening
+C0019357	Ophthalmic herpes simplex
+C0267537	Caecitis
+C0235919	Nerve root lesion
+C0162298	Joint stiffness
+C1142459	Application site scar
+C0302592	Cervix carcinoma
+C0020635	Hypopituitarism
+C0232493	Epigastric pain
+C0853142	CD4 lymphocytes decreased
+C0151772	Manic psychosis
+C0022353	Jaundice neonatal
+C0522570	Inflammation localised
+C0035357	Retroperitoneal fibrosis
+C0022568	Keratitis
+C0021099	Impetigo
+C0029927	Ovarian cyst
+C0004096	Asthma
+C0038663	Suicide attempt
+C0877406	Performance status decreased
+C0023218	Cramps of lower extremities
+C0002963	Prinzmetal angina
+C0017086	Gangrene
+C1112369	Paranasal sinus hypersecretion
+C0553713	Breast pain female
+C1096658	Urine phosphorus increased
+C0151766	Liver function test abnormal
+C0038238	Steatorrhoea
+C0003534	Aphakia
+C0423847	Growth of eyelashes
+C0333912	Hypochromasia
+C0728993	Spotting vaginal
+C0268000	Fluid retention
+C0235398	Diabetes mellitus exacerbated
+C0595916	Nephropathy toxic
+C0577559	Mass
+C0023895	Liver disorder
+C0021655	Insulin resistance
+C2718128	Nasal inflammation
+C1096403	Left ventricular ejection fraction decreased
+C0027822	Neurodermatitis
+C0242350	Erectile dysfunction
+C0232693	Borborygmi
+C0039614	Tetanus
+C0033777	Pruritus genital
+C0004364	Autoimmune disorder
+C0030446	Ileus paralytic
+C0694536	Drug seeking behavior
+C0851341	Infestation NOS
+C0151578	Creatinine increased
+C0003635	Apraxia
+C0151694	Hemorrhage of colon
+C0021294	Premature baby
+C3203466	Acute enterocolitis
+C0235849	Stomatitis necrotising
+C0858635	Pharyngolaryngeal pain
+C1112371	Anterior chamber pigmentation
+C0266813	Faecal occult blood positive
+C1328358	Pedal pulse decreased
+C0856150	Spinal haematoma
+C0162283	Nephrogenic diabetes insipidus
+C1306792	Red man syndrome
+C0206062	Interstitial lung disease
+C2697368	Gastrointestinal tract irritation
+C0039070	Syncope
+C0435001	Ligament injury
+C0034642	Rales
+C0010034	Corneal disorder
+C0700363	Rhythm idioventricular
+C1536009	Oesophageal oedema
+C1096213	Cannula site reaction
+C0549453	Traumatic haematoma
+C0423281	Anterior chamber flare
+C0014544	Epilepsy
+C0013922	Embolism
+C0152198	Accommodation disorder
+C0549376	Plasma osmolality decreased
+C0597457	Skeletal injury
+C0152025	Polyneuropathy
+C0235259	Cataract subcapsular
+C0341503	Peritonitis bacterial
+C0016579	Formication
+C0521208	Accident at home
+C0234894	Dermatitis acneiform
+C0003834	Arterial insufficiency
+C0152459	Skin striae
+C0549391	Bladder discomfort
+C0011875	Diabetic vascular disorder
+C0236048	Gastric polyps
+C1458155	Breast neoplasm
+C3665347	Visual impairment
+C0853312	Osteoarthritis aggravated
+C0235848	Skin cold clammy
+C0271738	Secondary adrenocortical insufficiency
+C0020492	Hyperostosis
+C0919714	Retinal vascular thrombosis
+C0153619	Ureteric cancer
+C0234632	Visual acuity reduced
+C0011304	Demyelination
+C0014236	Endophthalmitis
+C0860700	Prothrombin level abnormal
+C0033046	Premenstrual syndrome
+C0750394	White blood cell count decreased
+C1504465	Device malfunction
+C0269268	Breast induration
+C0041834	Erythema
+C2364111	Ageusia
+C0235325	Gastric haemorrhage
+C0853074	Anxiety NEC
+C0740330	Genital infection fungal
+C0271650	Glucose tolerance impaired
+C0949691	Spondyloarthropathy
+C0021775	Intermittent claudication
+C0435002	Ligament sprain
+C0151738	Large intestine perforation
+C0863147	Glucose urine increased
+C0021167	Incontinence
+C0860564	Retinoic acid syndrome
+C1142335	Bilirubin abnormal
+C0748318	Progressive renal failure
+C0235551	Laryngotracheal oedema
+C0242354	Disorder birth
+C0235761	Nasal septum perforation
+C3665596	Warts
+C1737224	Post procedural swelling
+C0853697	Neutrophil count decreased
+C0038325	Stevens-Johnson syndrome
+C0860967	Calcium low
+C1142358	Lactic acidosis syndrome
+C0023434	Chronic lymphocytic leukaemia
+C0278107	Painful ejaculation
+C0221016	Red blood cell disorders
+C0011881	Diabetic nephropathy
+C0917798	Cerebral ischaemia
+C0026113	Miliaria
+C0474378	Hair colour changes
+C0522063	Impaired gastric emptying
+C0221512	Stomach ache
+C3203661	Bilirubin total low
+C0235013	Hypervigilance
+C0040586	Tracheobronchitis
+C0240464	Neck oedema of
+C0151994	Uterine enlargement
+C0152008	Vulvovaginal disorder
+C0151574	Cough decreased
+C0748052	Erythrodermic psoriasis
+C0016867	Furunculosis
+C0243065	Aplasia
+C0947999	Blood urine present
+C0263492	Ingrown hair
+C0857236	Rash both legs
+C0521991	Stress symptoms
+C0239375	Numbness of limbs
+C0281361	Adenocarcinoma pancreas
+C0008033	Pleuritic pain
+C0028850	Eye movement disorder
+C0004930	Behavior disorder
+C1168175	Incision site haematoma
+C1142300	Clostridium colitis
+C0599918	Nephrotoxicity
+C0027796	Neuralgia
+C0022081	Iritis
+C0458104	Genital pain male
+C1322253	Eczema infected
+C0456909	Blindness
+C0745754	Hepatic granuloma
+C0033775	Anal pruritus
+C0267412	Thrombosis mesenteric vessel
+C0151865	Pregnancy test false positive
+C0085642	Livedo reticularis
+C0023533	Leukorrhea
+C0948023	Urine phosphate increased
+C0036454	Scotoma
+C0042798	Vision decreased
+C0347390	Skin papilloma
+C0016655	Multiple fractures
+C1302752	Abrasion NOS
+C0522245	Feeling hot and cold
+C0235283	Ear buzzing
+C0025193	Melancholia
+C0038220	Status epilepticus
+C3203646	Bilirubin total decreased
+C0744131	Foot infection fungal NOS
+C0040409	Tongue disorder
+C0235886	Leg edema
+C0376545	Haematological malignancy
+C0032285	Pneumonia
+C0024117	Chronic obstructive pulmonary disease
+C0264893	Nodal arrhythmia
+C0854456	Cellulitis gangrenous
+C1328308	Increased upper airway secretion
+C0018949	Spinal cord haemorrhage
+C0278008	Change of bowel habit
+C0009324	Colitis ulcerative
+C2717961	Thrombotic microangiopathy
+C0549336	Asthma aggravated
+C0729552	Genital infection
+C0852418	Speech and language abnormalities
+C0014583	Episcleritis
+C0852733	Completed suicide
+C1322281	Rhinitis seasonal
+C0027709	Nephrocalcinosis
+C0262576	Nerve paralysis
+C0423361	Posterior vitreous detachment
+C0877077	Myocardial haemorrhage
+C1142305	Melanonychia
+C0521008	Screaming
+C0042131	Uterine disorder
+C2937350	Abnormal ejaculation
+C0018979	Hemianopia
+C0333494	Phlebosclerosis
+C0264267	Nasal ulcer
+C0858217	Gastrointestinal fullness
+C0857121	Hypertensive
+C0278080	Dependence physiological
+C0497552	Unspecified congenital anomaly of brain	 spinal cord	 and nervous system
+C2939147	Feeling hot
+C0239296	Oesophageal obstruction
+C3495917	Advanced breast cancer
+C1868855	Post procedural infection
+C0013415	Dysthymic disorder
+C0022578	Keratoconus
+C0743680	Eye oedema
+C0857483	Worsening of diabetes
+C0858259	Nasal discomfort
+C0240840	Pulse pressure decreased
+C0520546	Pulmonary microemboli
+C1698480	Supraventricular tachyarrhythmia
+C0747256	Infection parasitic
+C0015806	Femoral neck fracture
+C0010418	Cryptosporidiosis infection
+C3160771	Sperm concentration decreased
+C0429028	Electrocardiogram QT interval
+C0003910	Phonological disorder
+C0574067	Cough increased
+C0699893	Skin carcinoma
+C0341047	Parotid gland enlargement
+C0033949	Male orgasmic disorder
+C0234222	Sensation of pressure
+C0272426	Mouth injury
+C0016053	Fibromyalgia
+C0155943	Arthralgia of temporomandibular joint
+C0004352	Autism
+C0553702	Ca++ increased
+C0042018	Calculus urinary
+C0042721	Hepatitis viral
+C0259756	Jarisch-Herxheimer reaction
+C0392156	Akathisia
+C0006144	Breast cyst
+C0236083	Burning feeling vagina
+C0036973	Shivering
+C0236022	Neoplasm malignant aggravated
+C0235592	Lymphadenopathy cervical
+C0040259	Tinea pedis
+C0542476	Forgetfulness
+C0858667	Urinary protein increased
+C0151594	Diarrhoea haemorrhagic
+C0013221	Drug toxicity
+C0549297	Auricular swelling
+C0013604	Oedema
+C0007137	Squamous cell carcinoma
+C0423791	Rash maculo-papular
+C0019156	Venoocclusive liver disease
+C1527358	Phototoxicity
+C0040034	Thrombocytopenia
+C0014860	Oesophageal perforation
+C0241426	Burning tongue
+C0038160	Staphylococcal infection
+C0025162	Megacolon toxic
+C0004601	Back injury
+C0041909	Upper gastrointestinal haemorrhage
+C0281860	Wound haematoma
+C0233414	Disturbance in attention
+C0271899	Normochromic normocytic anaemia
+C0302813	Lactase deficiency
+C2939103	Perioral paraesthesia
+C0343886	Gastrointestinal candidiasis
+C1704202	Aspermia
+C0006079	Bowen's disease
+C0274714	Adrenergic syndrome
+C0520837	Forced expiratory volume decreased
+C0085819	Antibiotic associated colitis
+C0231666	Wrist drop
+C0029134	Optic neuritis
+C1412000	Mesenteric vascular insufficiency
+C0028259	Nodule
+C0085207	Gestational diabetes
+C1959622	Vein distended
+C0012569	Diplopia
+C0750197	Sustained ventricular tachycardia
+C0037011	Shoulder pain
+C0235698	Abdominal distension gaseous
+C0869523	Carditis
+C0003873	Rheumatoid arthritis
+C3263723	Injury
+C0267158	Reflux gastritis
+C0863070	Catheter site related reaction
+C0151669	Gamma globulins increased
+C1609536	Allergic bronchospasm
+C0085582	Neuritis retrobulbar
+C0423124	Dermatochalasis
+C0030920	Peptic ulcer
+C0235984	Salivary duct obstruction
+C0948824	Haemorrhagic anaemia
+C0236018	Aura
+C0857576	Thyroid function abnormal
+C2609445	Infusion site reactions
+C1535939	Pneumocystis jirovecii pneumonia
+C0030790	Pelvic infection
+C0948594	Musculoskeletal discomfort
+C0038395	Streptococcal infection
+C0521508	Injection site bruising
+C0235318	Fullness abdominal
+C2748362	Vulvovaginal erythema
+C0019937	Horner's syndrome
+C0019061	Haemolytic uraemic syndrome
+C1868829	Ultrasound ovary abnormal
+C0919726	Postoperative hypertension
+C0011206	Delirium
+C0151786	Muscular weakness
+C0240897	Retinal exudates
+C0001925	Albuminuria
+C0542239	Tired and heavy
+C0033581	Prostatitis
+C0236178	Intra-abdominal haemorrhage
+C0855775	Pulmonary function test decreased
+C0016382	Flushing
+C0281963	Red cell aplasia
+C0011974	Dermatitis diaper
+C0034068	Pulmonary eosinophilia
+C0013274	Patent ductus arteriosus
+C0235018	Localised numbness
+C0687707	Anorectal disorder
+C1861172	Venous thromboembolism
+C0013528	Echolalia
+C0948525	Musculoskeletal stiffness
+C0235196	Suicidal tendency
+C1321686	Faecaloma
+C0262365	Mammogram abnormal
+C0013220	Drug tolerance
+C0549343	Neck tightness
+C0423757	Skin thinness
+C1262200	Cerebrovascular infarction
+C0042571	Vertigo
+C0438716	Chest pressure
+C0235146	Euphoric mood
+C0043117	Idiopathic thrombocytopenic purpura
+C0877046	Tooth infection
+C0042755	Virilism
+C0699885	Bladder carcinoma
+C0151977	Small intestine ulcer
+C0600142	Hot flush
+C0235353	Tooth caries aggravated NOS
+C0853760	Blood potassium increased
+C0241633	Vaginal dryness
+C0014122	Subacute bacterial endocarditis
+C0948715	Infusion related reaction
+C1262141	Poor quality sleep
+C0152010	Withdrawal bleed
+C2720436	Pleural fibrosis
+C0343387	Neutropenic enterocolitis
+C3160741	Toxicity to various agents
+C0263008	Skin fibrosis
+C0151692	Impaired healing
+C0520679	Obstructive sleep apnea syndrome
+C0027066	Myoclonus
+C0085602	Polydipsia
+C0267941	Pancreatitis necrotising
+C0302295	Eruption
+C0858156	Serum potassium abnormal
+C0151539	Blood urea increased
+C1963824	Shortened cervix
+C0004998	Benign neoplasm of skin
+C0042420	Syncope vasovagal
+C0521546	Congenital joint malformation
+C1696110	Vessel puncture site haematoma
+C0085624	Burning sensation
+C0034065	Pulmonary embolism
+C0027947	Neutropenia
+C0086438	Hypogammaglobulinaemia
+C0020302	Developmental glaucoma
+C0149904	Hepatitis cholestatic
+C0234708	Intraocular pressure increased
+C1971624	Appetite absent
+C0858867	Reticulocytopenia
+C2364082	Hyposmia
+C0026837	Muscle rigidity
+C0231807	Dyspnoea exertional
+C0151747	Renal tubular disorder
+C0013336	Dwarfism
+C0240812	Prostatic pain
+C0001973	Alcoholism
+C0242422	Parkinsonism
+C0025874	Metrorrhagia
+C0264714	Cardiac failure acute
+C0242172	Pelvic inflammatory disease
+C0281825	Dysequilibrium
+C0740304	COPD exacerbation
+C0236068	Swollen tongue
+C0085595	Body odor
+C0013447	Ear disorder
+C0155866	Pneumonia anthrax
+C0042065	Genitourinary tract neoplasm
+C0494165	Metastases to liver
+C0877089	Vaginal mucosal blistering
+C1306341	Mental disability
+C0338656	Cognitive impairment
+C0020617	Hypoglycaemic coma
+C0239739	Gingival pain
+C0341751	Bladder necrosis
+C0948240	Thyroxine free decreased
+C0159066	Abdominal rigidity
+C0010495	Cutis laxa
+C0018987	Hemimelia
+C0877098	Application site dryness
+C0085762	Alcohol abuse
+C0151834	Papanicolaou smear suspicious
+C0232285	Chest pressure sensation of
+C0037320	Sleep terror
+C0543467	Surgery
+C0267821	Hepatic congestion
+C0033246	Proctitis
+C0235964	Renal dysgenesis
+C0012739	Disseminated intravascular coagulation
+C0020639	Hypoproteinaemia
+C0001418	Adenocarcinoma
+C0476414	Thyroid function test abnormal
+C0003467	Anxiety
+C1096282	Medication residue
+C0007787	Transient ischaemic attack
+C0151815	Mesenteric occlusion
+C0085660	Aseptic necrosis
+C0857093	Elevated liver enzyme levels
+C0020503	Hyperparathyroidism secondary
+C0021845	Intestinal perforation
+C0836924	Thrombocytosis
+C0034951	Refraction disorder
+C0027651	Neoplasm
+C0542052	Coronary artery insufficiency
+C0221203	Rash vesicular
+C0008350	Cholelithiasis
+C0085611	Atrial arrhythmia
+C1328337	Urethritis noninfective
+C0233715	Speech impairment NOS
+C0854381	Genital haemorrhage
+C0476281	Non-cardiac chest pain
+C0020505	Hyperphagia
+C0232981	Spermatogenesis arrest
+C0031212	Personality disorder
+C0011570	Depression
+C0028949	Oligomenorrhoea
+C0340464	Extrasystoles
+C1390484	Skull hypoplasia
+C0235431	Blood creatinine increased
+C2004435	Intestinal ischaemia
+C0271412	Ear haemorrhage
+C1321581	Bezoar
+C0233488	Feeling of despair
+C0235774	Somnolence neonatal
+C0151650	Kidney fibrosis
+C0853755	Blood osmolarity decreased
+C0042140	Uterine prolapse
+C0032343	Poisoning
+C0036220	Kaposi's sarcoma
+C0085693	Acute appendicitis
+C0020580	Hypoaesthesia
+C0281773	Acute glaucoma
+C0010695	Cystocele
+C0263634	Excessive granulation tissue
+C2937228	Tunnel vision
+C0553721	Sweating decreased
+C1963818	Gastrointestinal sounds abnormal
+C0151879	Electrocardiogram QT shortened
+C0155765	Microangiopathy
+C0266589	Ear malformation
+C0473237	Frank hematuria
+C0522153	Urine color abnormal
+C0877584	Tumour haemorrhage
+C0027813	Neuritis
+C0334492	Malignant mesenchymoma
+C0015423	Eyelid disorder
+C1704381	Glucose decreased
+C0020877	Ileitis
+C0034886	Proctalgia
+C0429029	Electrocardiogram ST segment
+C0241729	Weight fluctuation
+C0812387	Coldness
+C0015726	Fear
+C0019555	Developmental hip dysplasia
+C1442826	Necrotising enterocolitis neonatal
+C0034634	Rage
+C0003466	Anal atresia
+C0038538	Subdural effusion
+C0041349	Tubulointerstitial nephritis
+C0267566	Perirectal abscess
+C0159060	Abnormal bowel sounds
+C0549249	Depressed level of consciousness
+C0042341	Varicocele
+C0521616	Pseudoporphyria
+C0085648	Synovial cyst
+C0438242	Blood urea abnormal
+C0750876	Phlebitis superficial
+C0005959	Marrow hyperplasia
+C0013363	Dysautonomia
+C1760428	Suicidal behaviour
+C0233565	Bradykinesia
+C0520806	Sudden death	 cause unknown
+C1262113	Lipohypertrophy
+C0158369	Swelling of limb
+C0151821	Accidental overdose
+C0038534	Subconjunctival hemorrhage
+C0005741	Blepharitis
+C0151824	Biliary colic
+C0877645	Urinary bladder polyp
+C0549310	Vaginal mycosis
+C0030517	Parathyroid disorder
+C0032541	Polyneuritis
+C0151313	Peripheral sensory neuropathy
+C1697943	Epidermal growth factor receptor decreased
+C0541819	Burning rectal
+C1536146	Eyelash darkening
+C0241057	Skin burning sensation
+C0206504	Tympanic membrane perforation
+C0858219	Clinical flare reaction
+C1739422	Opioid naive
+C0234193	Sensation of heat
+C0268105	Uricaciduria
+C0039621	Tetany
+C0267792	Hepatobiliary disease
+C0237849	Skin exfoliation
+C0005758	Blister
+C0854113	Mucosal dryness
+C1260880	Rhinorrhoea
+C0852922	Crohns disease aggravated
+C0858600	Taste sweet
+C0271453	Otitis media serous
+C0005904	Body temperature altered
+C0240182	Leukonychia
+C1383860	Cardiac hypertrophy
+C0006666	Calciphylaxis
+C0855246	Abnormal sleep-related event
+C1328327	Gastrooesophageal sphincter insufficiency
+C3160830	Prostatic dysplasia
+C0541782	Sinus arrest
+C0178415	Prostatic specific antigen increased
+C0019079	Haemoptysis
+C0920166	Catheter site haemorrhage
+C2004489	Regurgitation
+C0034212	Pyoderma
+C0406484	Sebaceous hyperplasia
+C0392162	Sticky skin
+C0020458	Hyperhidrosis
+C0521496	Application site infection
+C0007766	Intracranial aneurysm
+C3160769	Major bleed
+C0403632	Cystitis noninfective
+C0235296	Epigastric pain not food-related
+C0030578	Paronychia
+C0028778	Obstruction
+C0027765	Nervous system disorder
+C0856081	Restlessness aggravated
+C0022603	Seborrhoeic keratosis
+C0162423	Miliaria rubra
+C0013537	Eclampsia
+C0151767	Liver tenderness
+C0751711	Anterior ischemic optic neuropathy
+C0549201	Asteatosis
+C0241950	Intestinal infarction
+C0919947	Thoracic vertebral fracture
+C1565489	Renal impairment
+C0085577	Normocytic anemia
+C1112626	Allergic exanthema
+C0016522	Foramen ovale patent
+C0730345	Microalbuminuria
+C0521662	Hemiplegia transient
+C3203531	Post-traumatic neck syndrome
+C0239150	Creatinine low
+C0151684	Granuloma skin
+C1142520	Nail pigmentation
+C0026987	Myelofibrosis
+C0037284	Skin lesion
+C1504435	Electrocardiogram QT interval abnormal
+C0019340	Herpes NOS
+C0744403	Gingival infection
+C1167661	Cerebral vasoconstriction
+C0948441	Venoocclusive disease
+C0151779	Melanoma skin
+C0948300	Application site scab
+C0031036	Polyarteritis nodosa
+C0231837	Respiratory rate decreased
+C0015469	Facial paralysis
+C0852192	Asthenic conditions
+C0013608	Oedema due to cardiac disease
+C0007773	Cerebral arteritis
+C0151898	Schizophrenic reaction
+C0702266	Basophilia
+C0042487	Venous thrombosis
+C0877792	Circadian rhythm sleep disorder
+C0265050	Vena cava thrombosis
+C0919936	Therapy naive
+C0235996	Hepatic enzyme increased
+C0541832	Chromaturia
+C0151665	Globulins decreased
+C1112210	Catheter site infection
+C0043349	Xerophthalmia
+C0853750	Blood magnesium decreased
+C0234162	Dysmetria
+C0010828	Cytopenia
+C2945558	Vulvovaginitis trichomonal
+C0919882	Incision site haemorrhage
+C0151889	Hyperreflexia
+C0342405	Pituitary infarction
+C0236080	Vaginal discomfort
+C1536145	Eyelash hyperpigmentation
+C0003850	Arteriosclerosis
+C0239549	Fat intolerance
+C0151757	Lenticular pigmentation
+C0022354	Jaundice cholestatic
+C0023480	Chronic myelomonocytic leukaemia
+C0020457	Diabetic hyperosmolar coma
+C0020651	Orthostatic hypotension
+C0023903	Hepatic neoplasm
+C0948014	Red cell distribution width increased
+C0848309	Rhinitis perennial
+C0595900	Blood chloride increased
+C0038367	Ulcerative stomatitis
+C0003615	Appendicitis
+C0549357	Abdominal adhesions
+C0232333	Electrocardiogram U wave present
+C0022650	Calculus of kidney
+C0240962	Scleral icterus
+C0042998	Vulvovaginitis
+C0040247	Tinea infection
+C0740481	Hypotension asymptomatic
+C0751576	Vocal cord paresis
+C0235030	Neurologic reaction
+C0032000	Pituitary adenoma
+C1608397	Device occlusion
+C0023976	Long QT syndrome
+C0151971	Intestinal ulcer
+C0027145	Myxoedema
+C0267491	Large intestinal ulcer
+C0014394	Enuresis
+C0424448	Masked facies
+C0020604	Hypochondriasis
+C0021122	Impulse-control disorder
+C0027430	Nasal polyps
+C0020676	Hypothyroidism
+C0231592	Joint crepitation
+C0349464	Wernicke-Korsakoff syndrome
+C0023212	Left ventricular failure
+C0854100	Nitrogen balance negative
+C0019348	Herpes simplex
+C0018843	Heat stroke
+C0085628	Stupor
+C0151468	Thyroid adenoma
+C0031046	Pericarditis
+C0013781	Electric shock
+C0000768	Congenital anomaly
+C0032001	Pituitary apoplexy
+C0027697	Nephritis
+C0242528	Azotaemia
+C0853225	International normalised ratio increased
+C1112613	Neonatal tachypnoea
+C0151480	Antinuclear antibody positive
+C0852625	Injection site erythema
+C2586050	Oesophagitis ulcerative
+C0239779	Grimacing
+C0156308	Penile oedema
+C0085632	Apathy
+C0877359	Raised liver function tests
+C0851140	Cervix carcinoma stage 0
+C0745091	Hypereosinophilia
+C0151966	Duodenal ulcer haemorrhage
+C0002884	Hypochromic anaemia
+C0018818	Ventricular septal defect
+C0036416	Scleritis
+C0520962	Pain localised
+C0748055	Psychiatric decompensation
+C0233762	Hallucination	 auditory
+C0740434	Direct bilirubin increased
+C0001198	Acrodynia
+C0153567	Uterine cancer
+C0019284	Diaphragmatic hernia
+C0220994	Hyperammonaemia
+C0334040	Extraskeletal ossification
+C0236826	Expressive language disorder
+C0018834	Heartburn
+C0877128	Application site pustules
+C0016204	Flatulence
+C0023473	Chronic myeloid leukaemia
+C0267033	Lip ulceration
+C0235315	Faeces discoloured
+C0086168	Dissociation
+C0339807	House dust allergy
+C0232495	Abdominal pain lower
+C0015644	Fasciculation
+C0345996	Milia
+C0034067	Emphysema
+C0241060	Dermal cyst
+C0423232	Corneal staining
+C0270612	Leukoencephalopathy
+C0027543	Necrosis ischaemic
+C0020175	Hunger
+C0018621	Seasonal allergy
+C0235496	Oral mucosal petechiae
+C0238304	Chronic interstitial nephritis
+C0549293	Nasal soreness
+C0013687	Effusion
+C0577730	Family stress
+C0152030	Skin irritation
+C0026636	Oral disorder
+C0032617	Polyuria
+C0149911	Hypercalcaemia of malignancy
+C0302314	Xanthoma
+C1262109	Procedural hypotension
+C0553732	Prothrombin level decreased
+C0018824	Cardiac valve disease
+C0521498	Injection site irritation
+C0027721	Lipoid nephrosis
+C0017572	Gingival recession
+C0020443	Hypercholesterolaemia
+C0877192	Lipodystrophy acquired
+C0027059	Myocarditis
+C0410916	Death neonatal
+C1561230	Soft tissue necrosis
+C0001396	Adams-Stokes syndrome
+C1291078	Epigastric discomfort
+C0429098	Electrocardiogram QRS complex
+C0042384	Vasculitis
+C0155365	Vitreous disorder
+C0016470	Food allergy
+C0740425	Taste altered
+C0017675	Glossitis
+C0344320	Vivid dreams
+C0269189	Ectropion of cervix
+C0031575	Phocomelia
+C0029928	Ovarian disorder
+C0235653	Breast cancer female
+C0034069	Pulmonary fibrosis
+C0010346	Crohn's disease
+C3495801	Granulomatosis with polyangiitis
+C0235874	Condition aggravated
+C0266998	Oral soft tissue disorder NOS
+C0005695	Bladder neoplasm
+C0162627	Skin bacterial infection
+C0853347	Venous thrombosis limb
+C0023510	White blood cell disorder
+C0221232	Welts
+C0085576	Microcytic anaemia
+C3665473	Deafness bilateral
+C0013592	Ectropion
+C0263962	Olecranon bursitis
+C0333472	Epidermolysis
+C0007971	Cheilitis
+C0151577	Creatinine renal clearance decreased
+C0151714	Hypermagnesaemia
+C0006107	Concussion
+C0038661	Suicide
+C1956089	Bone spur
+C0027343	Ingrowing nail
+C0282193	Iron overload
+C0037036	Salivary hypersecretion
+C0034072	Cor pulmonale
+C0019163	Hepatitis B
+C0853986	Lymphocyte count decreased
+C0236101	Neonatal and infancy disorder
+C0239488	Erythema facial
+C1608945	Exfoliative rash
+C0948425	Large intestinal haemorrhage
+C0014118	Endocarditis
+C0221201	Rash macular
+C0311245	Congenital cystic kidney disease
+C0022658	Nephropathy
+C1142112	Eyelash thickening
+C0877095	Application site haematoma
+C0851980	Peritoneal infection
+C0410918	Tachycardia foetal
+C0496901	Pituitary tumour benign
+C0149709	Hepatitis B surface antigen positive
+C0151788	Eosinophilic myocarditis
+C1328540	Peripheral vasodilatation
+C0011609	Drug eruption
+C0853946	Pain worsened
+C0151526	Premature delivery
+C0853018	Blood thyroid stimulating hormone decreased
+C0241357	Testosterone low
+C1275515	Venomous bite
+C0006147	Breast feeding
+C0277889	Blood pressure diastolic increased
+C0855931	Cardioactive drug level above therapeutic
+C0868908	Pancolitis
+C0239233	Early satiety
+C1735601	Floppy iris syndrome
+C0011057	Sudden hearing loss
+C0031037	Periarthritis
+C1306600	Radial nerve palsy
+C0855619	Alanine aminotransferase abnormal
+C0239517	Facial paresthesia
+C0549264	Sensation of blood flow
+C0428886	Mean arterial pressure
+C3203695	Noninfectious peritonitis
+C0235032	Neurotoxicity
+C0858346	Gastrointestinal ulcer perforation
+C0151838	Circumoral paresthesia
+C0002891	Anaemia neonatal
+C0017181	Gastrointestinal haemorrhage
+C0086439	Hypokinesia
+C0518015	Haemoglobin
+C1761613	Conjunctival hyperaemia
+C0151610	Tongue oedema
+C0521492	Application site ulcer
+C0877617	Intestinal cramps
+C0392618	Postoperative infection
+C2711227	Hepatic steatosis
+C0020903	Illusion
+C3160947	CNS toxicity
+C0018991	Hemiplegia
+C0427055	Facial paresis
+C0878544	Cardiomyopathy
+C0595929	Cholesterol serum elevated
+C0476427	Smear cervix abnormal
+C0027013	Myeloid metaplasia
+C0020578	Hyperventilation
+C0020507	Hyperplasia
+C0853879	Breast cancer invasive NOS
+C0521987	Pre-existing disease
+C0006384	Bundle branch block
+C0040425	Tonsillitis
+C0151730	Drug effect increased
+C0007274	Carotid artery thrombosis
+C0877153	Neutropenic sepsis
+C0029445	Osteonecrosis
+C0400823	Neutropenic colitis
+C0728899	Intoxication
+C0268671	Korsakoff's psychosis (non-alcoholic)
+C0234047	Ejaculation delayed
+C0014549	Grand mal convulsion
+C0013080	Trisomy 21
+C0020456	Hyperglycaemia
+C0235329	Small intestinal obstruction
+C0231686	Unsteady gait
+C1096250	Gastrointestinal discomfort
+C0700613	Anxiety state
+C0016977	Gallbladder disorder
+C0013238	Dry eye syndrome
+C2047937	Ill-defined disorder
+C0857122	Hyponatraemic
+C0235573	Haemoglobinaemia
+C0155773	Portal vein thrombosis
+C0544618	Orthostatic hypertension
+C0028840	Ocular hypertension
+C0235896	Lung infiltration
+C0154251	Lipid metabolism disorder
+C0151580	Crystalluria calcium
+C1142446	Bicytopenia
+C0236053	Mucosal ulceration
+C0030353	Papilloedema
+C0014335	Enteritis
+C0002064	Respiratory alkalosis
+C1320474	Nuchal rigidity
+C0859023	Talkativeness
+C0860713	Carbon dioxide increased
+C0151559	CNS depression NOS
+C0234913	Rash erythematous
+C0586553	Thyrotropin high
+C0234458	Abnormal dreams
+C0022346	Jaundice
+C0856554	Hepatic cancer metastatic
+C0853117	Blood testosterone decreased
+C0037089	Gastrointestinal signs and symptoms
+C0006142	Breast cancer
+C0085619	Orthopnoea
+C1142011	Orchitis noninfective
+C0919625	Blood phosphorus increased
+C0855335	Electrocardiogram ST segment abnormal
+C0267166	Gastroduodenitis
+C0041912	Upper respiratory tract infection
+C0021177	Libido increased
+C0231749	Knee pain
+C0232286	Precordial pain
+C0013595	Eczema
+C0085684	Footdrop
+C2242737	Anorectal discomfort
+C0342579	Electrolyte imbalance
+C0541760	Hepatic adenoma
+C0024282	Lymphocytosis
+C2363730	Oropharyngeal discomfort
+C0220981	Metabolic acidosis
+C1168225	Inner ear infection
+C0267509	Chronic idiopathic constipation
+C0235347	Black hairy tongue
+C0235194	Tranquillisation excessive
+C0919590	Injection site cellulitis
+C0015468	Facial pain
+C0423285	Keratic precipitates
+C0344315	Depressed mood
+C0007859	Neck pain
+C0267797	Hepatitis acute
+C0024894	Mastitis
+C0006277	Bronchitis
+C0269842	Uterine hypertonus
+C0520588	Vulvovaginal pain
+C0542101	Nasal burning
+C0242301	Furuncle
+C0151693	Adrenal haemorrhage
+C0003126	Anosmia
+C1720775	Renal tubular necrosis
+C0270922	Demyelinating polyneuropathy
+C1142492	Postinfarction angina
+C0026961	Mydriasis
+C0158281	Cervicobrachial syndrome
+C0740380	Varicella zoster
+C3248383	Logorrhoea
+C0022672	Nephrosis lower nephron
+C0851891	Influenza viral infections
+C0043037	Common wart
+C0019112	Haemorrhoids
+C1611157	Hepatic infiltration eosinophilic
+C0221158	Multifocal atrial tachycardia
+C0476280	Musculoskeletal chest pain
+C0235883	Uterine inflammation
+C0002895	Sickle cell anaemia
+C0018213	Basedow's disease
+C0021361	Infertility female
+C0577115	Soft stools
+C0747979	Increased prolactin level
+C0039338	Taste disorders
+C0006325	Bruxism
+C0853336	Corneal infiltrates
+C0002878	Haemolytic anaemia
+C0030807	Pemphigus
+C0522224	Paralysis
+C0239981	Hypoalbuminaemia
+C1994994	Excessive thirst
+C0151472	Albumin globulin ratio abnormal
+C0021368	Inflammation
+C0037926	Spinal cord compression
+C0038358	Gastric ulcer
+C0043092	Wegener's granulomatosis
+C0151726	Injection site hypersensitivity
+C0024103	Breast mass
+C0852415	Paraesthesias and dysaesthesias
+C0860866	Potassium low
+C2937220	Malformation venous
+C0007760	Cerebellar syndrome
+C0235667	Mastitis acute female
+C0728936	Unspecified circulatory system disorder
+C0030489	Paraproteinaemia
+C0549445	Anaemia NOS aggravated
+C0429059	Electrocardiogram T wave amplitude decreased
+C0015371	Extrapyramidal disorder
+C0522055	Electrocardiogram abnormal
+C1096343	Infusion site reaction
+C0425481	Respiratory sighs
+C0235304	Acid indigestion
+C0162429	Malnutrition
+C0277794	Prostration
+C0036508	Seborrhoeic dermatitis
+C0026884	Mutism
+C1696708	Prehypertension
+C0241513	Thyrotropin low
+C0035204	Respiratory disorder
+C0035321	Retinal tear
+C0221727	Oesophageal pain
+C0522058	Carbohydrate craving
+C0221100	Hangover
+C1368065	Vascular purpura
+C0263888	Back disorder
+C0026918	Mycobacterial infection
+C0085614	Atrioventricular block first degree
+C0234655	Burning sensation in eye
+C0023380	Lethargy
+C0149741	Breast discharge
+C0007222	Cardiovascular disorder
+C0542120	Injection site nodule
+C0549150	Pseudofolliculitis barbae
+C0549124	Embolism arterial
+C0236124	Gastrointestinal obstruction
+C0264863	Subacute endocarditis
+C0162823	Dermatitis irritant contact
+C1167699	Lymphostasis
+C0020624	Hypomenorrhoea
+C1961112	Decompensation cardiac
+C0033797	Pseudodementia
+C0233746	Perceptual disturbance
+C0332563	Papule
+C0033845	Benign intracranial hypertension
+C0542313	Sleep talking
+C0025218	Chloasma
+C0206633	Angiomyolipoma
+C0751466	Phonophobia
+C0438173	Electrocardiogram QRS complex abnormal
+C1112303	Facial wasting
+C0949804	Polyomavirus infections
+C2243088	Gastritis erosive
+C0849835	Lip haemorrhage
+C0559546	Adverse reaction
+C0085669	Acute leukaemia
+C1542178	Lower limb fracture
+C0006826	Neoplasm malignant
+C0002940	Aneurysm
+C0852928	Insomnia exacerbated
+C0340274	Gestational hypertension
+C0034888	Rectal prolapse
+C0917816	Mental deficiency
+C0240035	Lung fibrosis interstitial
+C2711248	Osteonecrosis of jaw
+C0391870	Red blood cell abnormality
+C1458140	Bleeding tendency
+C0015732	Faecal incontinence
+C0151500	Anticholinergic syndrome
+C0036983	Septic shock
+C1285373	Respiratory disorder neonatal
+C0233632	Thinking abnormal
+C0948277	Hydrometra
+C0239182	Watery diarrhoea
+C0917799	Hypersomnia
+C0853692	Blood triglycerides increased
+C0001125	Lactic acidosis
+C0547030	Visual disturbance
+C0151811	Subcutaneous nodule
+C0026821	Cramp muscle
+C0006840	Candida infection
+C0235889	Arthritis aggravated
+C0267596	Rectal haemorrhage
+C0005697	Neurogenic bladder
+C0205707	Sprue
+C1328539	Reflex tachycardia
+C0027438	Nasopharyngeal disorder
+C0235721	Heaviness in limbs
+C3203457	Procedural haemorrhage
+C0743516	Endometrial thickening
+C1535849	Application site induration
+C0086769	Panic attack
+C0595878	Blood sodium increased
+C0564622	Albumin urine present
+C0392676	Hyperpyrexia
+C1536459	Nettle rash
+C0277585	Drug intolerance
+C0020532	Hypersplenism
+C1443060	Feeling abnormal
+C0151511	Breast atrophy
+C0520966	Coordination abnormal
+C0013182	Drug hypersensitivity
+C0853198	Gastroenteritis yersinia
+C0085136	Central nervous system neoplasm
+C0221002	Hyperparathyroidism primary
+C0042133	Uterine leiomyoma
+C0158687	Congenital genital malformation
+C0151713	Hyperchlorhydria
+C0010709	Cyst
+C1619692	Nephrogenic systemic fibrosis
+C0473117	Ischaemic hepatitis
+C0023532	Leukoplakia oral
+C0576091	Knee deformity
+C0235490	Peripheral ischaemia
+C0549202	Chapped skin
+C0030552	Paresis
+C1274594	Lichenoid keratosis
+C1096368	Mean platelet volume decreased
+C1291077	Abdominal bloating
+C0035508	Rhonchi
+C0340515	Myocardial depression
+C0853945	Oral mucosal blistering
+C0149836	Atrophic vulvovaginitis
+C0282074	Biliary sludge
+C0238124	Necrotising fasciitis
+C0852795	Blood insulin increased
+C0232488	Abdominal colic
+C0566951	Vaginal ulceration
+C0041959	Ureteritis
+C0020621	Hypokalaemia
+C0281856	Generalized aching
+C0151589	Partial transitory deafness
+C0423602	Sensation of foreign body
+C0013589	Ectromelia
+C0034215	Pyometra
+C0015395	Eye burns
+C0851353	Blood and lymphatic system disorders
+C0041825	Tympanic membrane disorder
+C2240374	Eosinophil count increased
+C0011053	Deafness
+C0740278	Pelvic peritoneal adhesions
+C0151689	Hair discoloration
+C0860594	Metastatic malignant melanoma
+C0085298	Sudden cardiac death
+C0013378	Dysgeusia
+C0333641	Atrophy
+C0435632	Hand fracture
+C0019917	Hordeolum
+C0872380	Food craving
+C1325847	Sensitisation
+C0153618	Malignant neoplasm of renal pelvis
+C0917801	Insomnia
+C0240925	Salivary gland swelling
+C0151818	Opisthotonus
+C1328332	Procedural hypertension
+C0426636	Defaecation urgency
+C0231303	Distress
+C0151601	Conjunctival oedema
+C0227791	Vaginal discharge
+C0684275	Haemophilia
+C0025286	Meningioma
+C0852149	Ischaemic coronary artery disorders
+C0041948	Uremia
+C0235467	Angina pectoris aggravated
+C0029878	Otitis externa
+C0233651	Perseveration
+C0239571	Foetor hepaticus
+C0022548	Keloid scar
+C0034091	Pulmonary veno-occlusive disease
+C0085702	Monocytosis
+C0520587	Vulvovaginal discomfort
+C0426390	Bladder spasm
+C0413234	Acute allergic reaction
+C0424230	Psychomotor retardation
+C0541802	Bicarbonate decreased serum
+C0948521	Oral pruritus
+C0036439	Scoliosis
+C0332534	Induration
+C0429774	Residual urine volume
+C0006846	Skin candida
+C0235575	Hemolytic reaction
+C0022573	Keratoconjunctivitis
+C0231365	Urination impaired
+C0043345	Xeroderma
+C0042134	Uterine haemorrhage
+C0234133	Extrapyramidal symptoms
+C0221776	Oral pain
+C0392160	Application site atrophy
+C0027497	Nausea
+C0016658	Fracture
+C0007097	Carcinoma
+C0025281	Meniere's disease
+C0400822	Lymphocytic colitis
+C0019521	Hiccups
+C0020550	Hyperthyroidism
+C0948050	Small bowel angioedema
+C0236065	Oedema mouth
+C0274435	Transfusion reaction
+C0034933	Reflexes abnormal
+C0919823	Cytolytic hepatitis
+C0476273	Respiratory distress
+C0019054	Haemolysis
+C0234665	Eyelid retraction
+C0240941	Itchy scalp
+C0027726	Nephrotic syndrome
+C0042109	Urticaria
+C0877690	Renal graft loss
+C0035410	Rhabdomyolysis
+C0847403	Infective tenosynovitis
+C0021831	Unspecified disorder of intestine
+C1699324	Pharyngeal mucositis
+C0740399	Auditory and visual hallucinations
+C0243001	Abdominal abscess
+C1167945	Infusion site rash
+C0001824	Agranulocytosis
+C0522061	Abdominal pain localised
+C0003950	Ascariasis
+C0549389	Wound discharge increased
+C0011071	Sudden death
+C0043167	Pertussis
+C2242711	Arteritic anterior ischaemic optic neuropathy
+C1527411	Retinal vein thrombosis
+C0233477	Dysphoria
+C0029883	Middle ear effusion
+C0853759	Blood potassium abnormal
+C0020672	Body temperature decreased
+C0151904	Aspartate aminotransferase increased
+C0232292	Chest tightness
+C0006114	Edema cerebral
+C1536080	Coronary stent thrombosis
+C0232267	Pericardial rub
+C0151798	Hepatic necrosis
+C0233479	Elevated mood
+C0233754	Derealisation
+C0037315	Sleep apnoea syndrome
+C0151836	Paranoid reaction
+C0518988	Tooth abscess
+C0042961	Volvulus
+C0086981	Syndrome sicca
+C0019123	Haemothorax
+C0014518	Toxic epidermal necrolysis
+C2004521	Anaemia vitamin B12 deficiency
+C0009269	Cold intolerance
+C0877306	Iris hyperpigmentation
+C0158328	Trigger finger
+C1280433	Lipoatrophy
+C0029089	Ophthalmoplegia
+C0033578	Neoplasm prostate
+C0861157	Decreased night vision
+C0344375	Stomach cramps
+C0919593	Injection site coldness
+C0032787	Postoperative complications NOS
+C0549447	Urine odour foul
+C0877661	Application site burn
+C0948002	Crystal urine present
+C0006145	Breast disorder
+C0018133	Graft versus host disease
+C0020510	Nodular regenerative hyperplasia
+C0151571	Corneal lesion
+C0312420	Hypersexuality
+C1868919	Upper abdominal discomfort
+C0014724	Eructation
+C1740836	Acute migraine
+C0007177	Cardiac tamponade
+C0948070	Rhinalgia
+C0162287	Abnormal faeces
+C0235340	Buccal inflammation
+C0013312	Dupuytren's contracture
+C0149871	Deep vein thrombosis
+C0001127	Respiratory acidosis
+C1868771	Peritoneal cloudy effluent
+C0151584	Injection site cyst
+C0236072	Bronchospasm paradoxical
+C0338480	Migraine without aura
+C0005684	Bladder cancer
+C0221269	Pseudolymphoma
+C0854331	Herpes simplex dermatitis
+C0162557	Acute hepatic failure
+C0010073	Arteriospasm coronary
+C0022104	Irritable bowel syndrome
+C0857751	Erythema multiforme minor
+C0393593	Dystonia
+C0600041	Bladder infection
+C0160390	Liver injury
+C0014591	Epistaxis
+C0857183	Pre-menstrual tension syndrome
+C0221265	Microcytosis
+C1142028	Peripheral nerve palsy
+C0860901	Protein total decreased
+C1736172	Acute cytolytic hepatitis
+C0851976	Dyspeptic signs and symptoms
+C0015402	Eye haemorrhage
+C0855331	Electrocardiogram QT corrected interval
+C0015930	Foetal distress syndrome
+C1274926	Stinging skin
+C3665900	Intraspinal bleeding
+C0027849	Neuroleptic malignant syndrome
+C0856882	Potassium increased
+C1704327	Bone sarcoma
+C0265110	Vasospasm cerebral
+C0877009	Muscle fibrosis
+C0029925	Ovarian carcinoma
+C0162835	Leukoderma
+C0235129	Feeling strange
+C0240291	Mg reduced
+C0015300	Exophthalmos
+C0013369	Dysentery
+C0017665	Glomerulonephritis membranous
+C0542184	Reaction gastrointestinal
+C0010692	Cystitis
+C0030286	Pancreatic disorder
+C0024299	Lymphoma
+C0014431	Enzyme induction
+C0919874	Post procedural haemorrhage
+C0277799	Intermittent fever
+C0020598	Hypocalcaemia
+C0338591	Transient global amnesia
+C0424000	Suicidal ideation
+C0521494	Application site pigmentation changes
+C0238198	Gastrointestinal stromal tumour
+C0040436	Tooth erosion
+C0278061	Mental state abnormal
+C0030312	Pancytopenia
+C0428974	Arrhythmia supraventricular
+C0877232	Peripheral swelling
+C3489393	Hiatus hernia
+C0016199	Flank pain
+C1142412	Vasodilation procedure
+C1141885	Sclerosing encapsulating peritonitis
+C1290864	Abdominal disorder
+C0019159	Hepatitis A
+C0521490	Application site irritation
+C1096272	Vanishing bile duct syndrome
+C0033687	Proteinuria
+C0037933	Spinal disorder
+C1318520	Vasculitis necrotising
+C1384353	Infestation
+C0267841	Acalculous cholecystitis
+C0234144	Dysgraphia
+C0043049	Water intoxication
+C0687675	Pregnancy loss
+C0042880	Vitamin K deficiency
+C1536055	Drug administration error
+C0017416	Female reproductive neoplasm
+C0006705	Calcium metabolism disorder
+C0240811	Prostate infection
+C0020517	Hypersensitivity
+C0850638	Infected bites
+C1456863	Vasoconstriction
+C0007871	Cervical incompetence
+C0030201	Postoperative pain
+C0566948	Vaginal swelling
+C0010200	Cough
+C0854388	Caustic injury
+C0919715	Lupus-like syndrome
+C0007682	Central nervous system disorder
+C0853926	Dyspepsia aggravated
+C0019158	Hepatitis
+C0025290	Meningitis aseptic
+C0235198	Cerebration impaired
+C0004153	Atherosclerosis
+C0233794	Memory impairment
+C0857256	Unwell
+C0024050	Lower gastrointestinal haemorrhage
+C0268732	Nephritic syndrome
+C0085653	Pyogenic granuloma
+C0542224	Spots before eyes
+C0151474	Alcohol intolerance
+C0025222	Melaena
+C0270549	Generalised anxiety disorder
+C0007873	Cervix neoplasm
+C0233844	Clumsiness
+C0392197	Warmth
+C1456784	Paranoia
+C0043241	Wound infection
+C0038002	Splenomegaly
+C0265962	Netherton's syndrome
+C0003838	Arterial occlusive disease
+C0263912	Rotator cuff syndrome
+C0027962	Melanocytic naevus
+C0263445	Acne fulminans
+C1096274	Corneal thinning
+C2609264	Color vision change
+C1112442	Female sexual dysfunction
+C0025958	Microcephaly
+C0853034	Blood creatine phosphokinase increased
+C0021308	Infarction
+C0031024	Dentoalveolar abscess
+C0085271	Self injurious behaviour
+C0497327	Dementia
+C0009766	Conjunctivitis allergic
+C0237020	Dermoid cyst of ovary
+C1328377	Oculo-respiratory syndrome
+C0231856	Breath sounds abnormal
+C0860433	Irreversible renal failure
+C0345217	Cloacal exstrophy
+C1282609	Granulocytosis
+C0006152	Breast swelling
+C0239978	Frequent bowel movements
+C0740651	Abdominal symptom
+C0021053	Immune system disorder
+C0221147	Platelet production decreased
+C0007107	Laryngeal cancer
+C0234192	Feeling cold
+C0521170	Osteoporotic fracture
+C0221260	Nail dystrophy
+C0522064	Regurgitation of food
+C0919560	Stent occlusion
+C0034931	Reflex sympathetic dystrophy
+C0339293	Corneal perforation
+C0549405	Blood pressure fluctuation
+C0042510	Ventricular fibrillation
+C0311468	Blood bilirubin increased
+C0949059	Large intestine polyp
+C0032019	Pituitary tumour
+C0040997	Trigeminal neuralgia
+C0549429	Surgical site reaction
+C0014848	Oesophageal achalasia
+C0014752	Erythrasma
+C0085682	Hypophosphataemia
+C0451641	Urolithiasis
+C0033375	Prolactinoma
+C0236141	Electrocardiogram abnormal specific
+C0302809	Hepatitis fulminant
+C1282799	Penile swelling
+C0853711	Sperm count decreased
+C0020557	Hypertriglyceridaemia
+C0235511	Superficial phlebothrombosis
+C0853011	Diabetic hyperglycaemic coma
+C0232208	Nodal rhythm
+C0863093	Cold symptoms
+C0034734	Raynaud's disease
+C1112443	Male sexual dysfunction
+C0455880	Poor urinary stream
+C0004626	Pneumonia bacterial
+C0038363	Aphthous stomatitis
+C1963822	Mucosal pigmentation
+C0558148	Yellow skin
+C0476089	Endometrial cancer
+C0426747	Anal haemorrhage
+C2939465	Glucose-6-phosphate dehydrogenase deficiency
+C0162275	Ketonuria
+C0024225	Lymphangitis
+C0239940	Glycosylated haemoglobin increased
+C0438237	Hepatic enzyme abnormal
+C0175683	Argininosuccinate synthetase deficiency
+C3495440	Bleeding breakthrough
+C0007684	Central nervous system infection
+C1112353	Medical device complication
+C0005686	Bladder disorder
+C0877237	Traumatic fracture
+C2242582	Cholestatic liver injury
+C0263386	Ichthyosis acquired
+C0017650	Globus hystericus
+C0700075	Motor restlessness
+C0238707	Impairment of attention
+C0029400	Osteitis
+C1305875	Fibroadenosis of breast
+C1306503	Exomphalos
+C1456329	Stomach dilation procedure
+C0011860	Type 2 diabetes mellitus
+C0041976	Urethritis
+C0424296	Disinhibition
+C0741132	Antibody test positive
+C0085605	Hepatic failure
+C0030326	Panniculitis
+C0750016	Generalized urticaria
+C0241742	Wound haemorrhage
+C0235290	Taste bitter
+C0018099	Gout
+C1301937	Talipes
+C3495947	Atypical stress fracture
+C0857807	Accidental ingestion
+C0231471	Posture abnormal
+C0221725	Bronchial obstruction
+C0522214	Visual evoked potentials abnormal
+C0542035	Hypoplasia erythroid
+C0947964	Reproductive system haemorrhages
+C0011603	Dermatitis
+C0011127	Decubitus ulcer
+C0522351	Vertigo positional
+C3241936	Non-cardiogenic pulmonary oedema
+C0476327	Serum amylase increased
+C2267227	Bulimia nervosa
+C0085583	Choreoathetosis
+C0281839	Oesophageal rupture
+C0424332	Breath holding attack
+C0151775	Injection site mass
+C1096691	BK virus infection
+C0877517	Blood phosphorus decreased
+C0266316	Congenital hydronephrosis
+C0522035	Upper limb oedema
+C0263540	Onychomadesis
+C0016436	Folliculitis
+C0026265	Mitral valve disease
+C0549398	Meibomianitis
+C0237938	Gastrointestinal ulcer
+C0221170	Muscle stiffness
+C0424605	Developmental delay
+C0010481	Cushing's syndrome
+C0018129	Transplant rejection
+C0040588	Tracheo-oesophageal fistula
+C2955673	Urate nephropathy
+C1096116	Acquired haemophilia
+C0282488	Cystitis interstitial
+C0522757	Exposure to toxic agent
+C0001807	Aggression
+C0003123	Anorexia
+C0038353	Gastric dilatation
+C0004030	Aspergillosis
+C2363829	Semen analysis abnormal
+C0152031	Joint swelling
+C0031345	Pharyngeal disorder
+C0221245	Skin fissures
+C0030925	Peptic ulcer perforation
+C2721737	Application site stinging
+C0877131	Urinary tract infection fungal
+C0233472	Affect lability
+C0221406	Pituitary-dependent Cushing's syndrome
+C0575805	Hand swelling
+C0877167	Psychomotor skills impaired
+C0262977	Skin depigmentation
+C0008325	Cholecystitis
+C0340279	Ventricular hypertrophy
+C0017168	Gastrooesophageal reflux disease
+C0152227	Lacrimation increased
+C0013609	Localised oedema
+C0541772	Ammonia increased
+C0549473	Thyroid carcinoma
+C0032797	Postpartum haemorrhage
+C0852396	Transient cerebrovascular events
+C0042514	Ventricular tachycardia
+C0685707	Muscular ventricular septal defect
+C0034152	Henoch-Schonlein purpura
+C3495832	Rheumatic disorder
+C0040261	Onychomycosis
+C1112469	Cytomegalovirus syndrome
+C0427086	Movements involuntary
+C0038999	Swelling
+C0043515	Zollinger-Ellison syndrome
+C0856049	Peripheral embolism
+C0162323	Polyarthritis
+C0085083	Ovarian hyperstimulation syndrome
+C1096188	Puncture site reaction
+C0235339	Mouth irritation
+C0009088	Cluster headache
+C0035258	Restless legs syndrome
+C0032300	Lobar pneumonia
+C0007166	Cardiac output decreased
+C0853141	Therapeutic response unexpected
+C0877048	Oral fungal infection
+C0151565	Hemorrhagic colitis
+C0232431	Cold sweat
+C0278883	Metastatic melanoma
+C0014742	Erythema multiforme
+C0151538	Buccoglossal syndrome
+C0858176	Serum sodium abnormal
+C0006434	Burn
+C0151754	Lactic dehydrogenase activity increased
+C0409974	Lupus erythematosus
+C0877440	Erythema periorbital
+C0520933	Spermatogenesis abnormal
+C1276146	Lymphoma cutis
+C1704431	Electrolyte disturbance
+C2939186	Mood alteration NOS
+C0023267	Leiomyoma
+C0011615	Dermatitis atopic
+C0032326	Pneumothorax
+C0436503	Chest X-ray abnormal
+C0042996	Vulvitis
+C0376286	Avitaminosis
+C0022890	Labyrinthine disorder
+C3544214	Reversible cerebral vasoconstriction syndrome
+C0520573	Buffalo hump
+C0039103	Synovitis
+C0016325	Fluorosis
+C0014527	Epidermolysis bullosa
+C0340909	Arteriovenous fistula thrombosis
+C0272774	Foot fracture
+C0553723	Squamous cell carcinoma of skin
+C0005683	Calculus bladder
+C0007114	Skin cancer
+C0235195	Sedation
+C0023418	Leukaemia
+C0032226	Pleural disorder
+C0920289	Sluggishness
+C0860207	Drug-induced liver injury
+C0032708	Porphyrin metabolism disorder
+C0027121	Myositis
+C0149937	Acute interstitial nephritis
+C0852879	Pulmonary alveolar haemorrhage
+C0541798	Terminal insomnia
+C0085593	Chills
+C0156543	Abortion
+C0151467	Adrenocortical insufficiency acute
+C0521634	Genital itching female
+C0079487	Helicobacter infection
+C0853023	Blood parathyroid hormone increased
+C0854954	Ovarian germ cell teratoma benign
+C0857983	Serum testosterone decreased
+C0014358	Pseudomembranous enterocolitis
+C0019064	Pericardial haemorrhage
+C0010414	Cryptococcosis
+C0030232	Pallor
+C0410919	Bradycardia foetal
+C3665624	Blood calcium decreased
+C0947864	Application and instillation site reactions
+C0037195	Sinus headache
+C0040262	Tinea versicolour
+C1608950	Device dislocation
+C0302810	Uraemic syndrome
+C0029453	Osteopenia
+C0392163	Corneal erosion
+C0015929	Foetal disorder
+C0877508	Irritation gum
+C0007820	Cerebrovascular disorder
+C0234930	Skin odour abnormal
+C0403723	Candiduria
+C0424091	Decreased interest
+C0560637	Genital injury
+C0031099	Periodontitis
+C0853959	Device breakage
+C0015376	Extravasation
+C0009918	Joint contracture
+C0014852	Oesophageal disorder
+C0549250	Jaw stiffness
+C0876975	Pruritus NEC
+C0235228	Lacrimal gland disorder
+C0263978	Soft tissue disorder
+C0178421	Fibroadenoma of breast
+C0235620	Haemorrhage urinary tract
+C0003537	Aphasia
+C0003860	Arteritis
+C0017152	Gastritis
+C0030583	Parotitis
+C0233571	Excitement
+C0034183	Pyelitis
+C0233528	Asocial behaviour
+C0151763	Hepatocellular injury
+C1621958	Glioblastoma multiforme
+C0497247	Blood pressure increased
+C0034372	Quadriplegia
+C0029396	Ectopic ossification
+C0028961	Oliguria
+C0741553	Hemorrhage abnormal
+C0241005	Creatine phosphokinase serum increased
+C0206061	Interstitial pneumonia
+C0262985	Dermatitis psoriasiform
+C0015403	Eye infection
+C0032290	Pneumonia aspiration
+C0020440	Hypercapnia
+C0406834	Wound secretion
+C0018802	Cardiac failure congestive
+C0020579	Hypervitaminosis A
+C0919892	Blood pressure inadequately controlled
+C0151905	Alanine aminotransferase increased
+C1262760	Drug-induced hepatitis
+C0030293	Pancreatic insufficiency
+C0861148	Proarrhythmia
+C0553698	Monocyte count increased
+C0025312	Meningomyelocele
+C0026633	Congenital oral malformation
+C0158026	Monarthritis
+C0007095	Carcinoid tumour
+C0015734	Faecalith
+C0424741	Cold feet
+C2609269	Fasting hyperglycaemia
+C0520888	Electrocardiogram T wave inversion
+C2747891	Device capturing issue
+C0040923	Trichomonal vaginitis
+C0858854	Unrest
+C0023530	Leukopenia
+C1704272	Benign prostatic hyperplasia
+C0015970	Fever of unknown origin
+C0860801	Glucose low
+C0034628	Radius fracture
+C0206093	Neuroectodermal neoplasm
+C1112256	Peripheral sensorimotor neuropathy
+C3203356	Hypoprothrombinaemia
+C1141938	Ocular icterus
+C0877314	Blood glucose fluctuation
+C0030193	Pain
+C0030805	Pemphigoid
+C0235299	Right upper quadrant pain
+C0851536	Administration site reaction
+C0273482	Nerve compression
+C0475858	Pruritus generalised
+C0008035	Chest wall pain
+C0235939	Crying abnormal
+C0428977	Bradycardia
+C0018188	Granuloma
+C0856120	Multiple sclerosis relapse
+C0242770	Bronchiolitis obliterans with organizing pneumonia
+C0238425	Sickle cell anaemia with crisis
+C0152081	Pustular psoriasis
+C0036689	Pharyngitis streptococcal
+C0152517	Viral diarrhoea
+C0085681	Hyperphosphataemia
+C0948595	Ocular discomfort
+C0000833	Abscess
+C0221395	Erythropenia
+C0549395	Blood urea decreased
+C2937358	Cerebral haemorrhage
+C0037384	Snoring
+C0023470	Myeloid leukaemia
+C1260922	Respiration abnormal
+C0235086	Muscle contractions involuntary
+C0221252	Eruptive xanthoma
+C0236171	Infection susceptibility increased
+C0009024	Clonus
+C1141930	Post procedural complication
+C1168290	Drug-induced hypersensitivity syndrome
+C0849796	Ear congestion
+C1142172	Incision site complication
+C0242073	Pulmonary congestion
+C0852875	Eye allergy
+C0002390	Alveolitis allergic
+C0020538	Hypertension
+C0030469	Sinus disorder
+C0399459	Oral discomfort
+C1868709	Activation syndrome
+C0159877	Ankle fracture
+C0085661	Onycholysis
+C0038986	Sweat gland disorder
+C0235168	Nervous tremulousness
+C0151699	Haemorrhage intracranial
+C0851377	Gastrointestinal inflammatory conditions
+C0221333	Hypouricaemia
+C0235857	Lacrimation decreased
+C0010037	Corneal oedema
+C0019372	Herpes virus infection
+C0269173	Fallopian tube cyst
+C0267055	Erosive oesophagitis
+C0259749	Autonomic neuropathy
+C1167965	Urine output increased
+C0004044	Asphyxia
+C1167791	Skin toxicity
+C1720798	Radiation recall reaction (dermatologic)
+C0596240	Cancer pain
+C0553681	Hypofibrinogenaemia
+C0085615	Bundle branch block right
+C0153251	Respiratory moniliasis
+C0029261	Orgasm abnormal
+C0018784	Deafness neurosensory
+C0234975	Convulsions aggravated
+C0239836	Paraesthesia hand
+C0427458	Red blood cell count increased
+C0030569	Secondary parkinsonism
+C0010032	Corneal abrasion
+C0023646	Lichen planus
+C0036830	Serum sickness
+C0042909	Vitreous haemorrhage
+C0265294	Metaphyseal dysplasia
+C0008049	Varicella
+C0269596	Haemorrhage in pregnancy
+C0238154	Epidural haemorrhage
+C0162119	Haemoglobin decreased
+C0023440	Erythroleukaemia
+C0554309	Azotemia prerenal
+C0027092	Myopia
+C0742906	C-reactive protein increased
+C0008301	Choking
+C0264886	Conduction disorder
+C0345904	Hepatic cancer
+C0235014	Fontanelle bulging
+C2242621	Erection prolonged
+C0024205	Lymphadenitis
+C0037578	Soft tissue injury
+C0233407	Disorientation
+C2973529	Leukocytoclastic vasculitis
+C0029408	Osteoarthritis
+C0162296	Polyarthralgia
+C0205929	Anal fistula
+C0184567	Acute pain
+C1868912	Uric acid increased
+C0158252	Intervertebral disc disorder
+C0854134	Blood bilirubin unconjugated increased
+C0580493	Serum albumin decreased
+C0235480	Paroxysmal atrial fibrillation
+C0020541	Portal hypertension
+C0271321	Madarosis
+C0042251	Vaginal disorder
+C0497481	Penile pain
+C0221040	Dialysis dementia
+C0852909	Blood bicarbonate decreased
+C0234022	Anorgasmia
+C0020433	Hyperbilirubinaemia
+C0520589	Vulvovaginal dryness
+C0948245	Cytokine release syndrome
+C0349231	Phobia
+C1527407	Eosinophilic pneumonia
+C0085654	Injection site granuloma
+C0010043	Ulcerative keratitis
+C0018816	Cardiac septal defect
+C0003564	Aphonia
+C1096001	Application site swelling
+C0441713	Chemical injury
+C0042749	Viraemia
+C0025287	Meningism
+C0521495	Application site rash
+C0028084	Nightmare
+C0038941	Postoperative wound infection
+C0853761	Blood potassium decreased
+C0036203	Cutaneous sarcoidosis
+C1096267	Injection site discomfort
+C0235942	Skull malformation
+C0858603	Wave slowing
+C1142111	Eyelash discolouration
+C0039971	Thirst
+C0149744	Oral lesion
+C0425643	Midsystolic click
+C0016512	Foot pain
+C0151717	Skin hypertrophy
+C0948991	Injection site discolouration
+C0151514	Skin atrophy
+C0002902	Anencephaly
+C0041981	Uric acid level increased
+C0003462	Anus disorder
+C0860871	Sodium decreased
+C0026846	Muscle atrophy
+C0338375	Aseptic peritonitis
+C1142133	Adnexa uteri mass
+C0751265	Learning disability
+C0392176	Gastric irritation
+C0018524	Hallucination
+C0022408	Arthropathy
+C0242459	Loeffler's syndrome
+C0520474	Aseptic necrosis of bone
+C0009763	Conjunctivitis
+C0028798	Occupational exposures
+C0019294	Inguinal hernia
+C0015934	Microsomia
+C1112677	Protein allergy
+C0269806	Failed induction of labour
+C0581870	Pain hunger
+C0235876	Depression aggravated
+C0263383	Keratosis pilaris
+C0232409	Hair growth abnormal
+C0151544	Gastrointestinal carcinoma
+C0234936	Application site oedema
+C0016927	Gagging
+C0020461	Hyperkalaemia
+C0030554	Paraesthesia
+C0475746	Light anaesthesia
+C0014038	Encephalitis
+C0236000	Pain in jaw
+C0162565	Porphyria acute
+C0011551	Depersonalisation
+C0151942	Arterial thrombosis
+C0241934	Hypomania
+C0085612	Ventricular arrhythmia
+C0232933	Menstrual cycle abnormal
+C0022504	Kaposi's varicelliform eruption
+C0000729	Abdominal cramps
+C0458219	Complex regional pain syndrome
+C0235270	Keratopathy
+C0546947	Choking sensation
+C0235287	Dysosmia
+C0234233	Tenderness
+C0948695	White blood cell count low
+C0033975	Psychotic disorder
+C0034074	Pulmonary infarction
+C0039685	Fallot's tetralogy
+C0151799	Skin necrosis
+C0016385	Cardiac flutter
+C0867389	Chronic graft versus host disease
+C0851710	Exfoliative conditions
+C0023222	Leg pain
+C0151683	Neutrophil count increased
+C0855704	Vital dye staining cornea present
+C0002888	Anaemia megaloblastic
+C0162871	Abdominal aortic aneurysm
+C0026769	Multiple sclerosis
+C0542165	Pseudoparkinsonism
+C0019087	Haemorrhagic disorder
+C0232459	Digestion impaired
+C0151490	Congenital central nervous system anomaly
+C1608399	Dark circles under eyes
+C0853875	Myoglobin urine present
+C0022906	Lacrimal duct obstruction
+C0037287	Skin nodule
+C0750857	Alkaline phosphatase serum increased
+C0549373	Laryngeal pain
+C0085393	Immunocompromised
+C0233767	Hallucination	 tactile
+C1096543	Superficial punctate keratopathy
+C0151746	Kidney function abnormal
+C0015523	Factor XI deficiency
+C0260662	Auditory disorder NOS
+C0151790	Nasal septum disorder
+C0002994	Angioedema
+C1141890	Long QT syndrome congenital
+C0424295	Hyperkinesia
+C0085074	Granuloma annulare
+C0856864	Headache fullness
+C0206762	Limb malformation
+C0232462	Decreased appetite
+C0262397	Breast tenderness
+C0522178	Self-injurious ideation
+C0278079	Dependence psychological
+C1096506	Free prostate-specific antigen increased
+C0281784	Meningioma benign
+C0341012	Oral herpes
+C0232726	Rectal tenesmus
+C0870082	Hyperkeratosis
+C0542127	Oversedation
+C0013428	Dysuria
+C0014170	Endometrial neoplasm
+C0333243	Pitting edema
+C0036117	Salmonellosis
+C0038990	Sweating
+C0853891	Tumour flare
+C0009319	Colitis
+C0241669	Venous occlusion
+C0853973	Blood gonadotrophin increased
+C0151632	Red blood cell sedimentation rate increased
+C0024141	Systemic lupus erythematosus
+C0852995	Injection site pruritus
+C0036974	Shock
+C0151885	Reaction aggravation
+C0854165	Conjunctivitis papillary
+C0080233	Tooth loss
+C1096243	Central line infection
+C0085680	Hypochloraemia
+C0040213	Costochondritis
+C0700200	Presyncope
+C0205204	Scab
+C1695897	Infusion site irritation
+C1096340	Dysphemia
+C0031542	Phlebitis
+C1868843	Injection site dryness
+C0235557	Pulmonary granuloma
+C0023211	Bundle branch block left
+C0010520	Cyanosis
+C0221745	Depression suicidal
+C0018916	Haemangioma
+C0700031	Anxiety attack
+C0345907	Hepatic angiosarcoma
+C0919768	Extremity contracture
+C0877096	Application site paraesthesia
+C0743323	Acute dyspnea
+C0036358	Schizophreniform disorder
+C0011649	Dermoid cyst
+C0238844	Respiratory sounds decreased
+C0241863	Diabetic
+C3203485	Orthostatic dysregulation
+C0010038	Corneal opacity
+C0877144	Spontaneous penile erection
+C0151718	Hypocholesterolaemia
+C0003864	Arthritis
+C0022638	Ketosis
+C0001883	Airway obstruction NOS
+C0746883	Febrile neutropenia
+C0008372	Cholestasis intrahepatic
+C0278106	Ejaculation failure
+C2830004	Somnolence
+C0234543	Postictal state
+C0005779	Coagulopathy
+C0206063	Radiation pneumonitis
+C0039239	Sinus tachycardia
+C0856099	Hemorrhoids aggravated
+C0235140	Drug maladministration
+C0262662	Ventricular bigeminy
+C0004245	Atrioventricular block
+C0220870	Lightheadedness
+C0919671	Subileus
+C1262013	Recall phenomenon
+C0035078	Renal failure
+C0026896	Myasthenia gravis
+C0026603	Motion sickness
+C0277890	Blood pressure diastolic decreased
+C0037052	Sick sinus syndrome
+C0005745	Eyelid ptosis
+C0235807	Hair texture abnormal
+C0562057	Burning in throat
+C0030846	Penis disorder
+C0015459	Face injury
+C3257803	Tearing eyes
+C0860703	Serum total protein decreased
+C0042847	Vitamin B12 deficiency
+C0029882	Otitis media
+C0221244	Dandruff
+C0233481	Worry
+C0859037	Feeling of residual urine
+C0008924	Cleft lip
+C0236003	Mucosal swelling
+C0555724	Lip dry
+C0235475	Electrocardiogram QRS complex prolonged
+C0340726	Embolism venous
+C0426732	Prostatomegaly
+C0151505	Application site reaction
+C0231530	Muscle twitching
+C0206669	Hepatocellular adenoma
+C1704212	Embolus
+C0541974	Fuzzy head
+C0232132	Thready pulse
+C0018989	Hemiparesis
+C0221423	Sickness
+C0749923	Urinary abnormalities
+C0947858	Anaphylactic responses
+C0015672	Fatigue
+C0520459	Necrotizing enterocolitis
+C0178298	Unspecified disorder of skin and subcutaneous tissue
+C1535948	Retinal aneurysm
+C0151739	Small intestinal perforation
+C0003578	Apnoea
+C0025061	Mediastinal disorder
+C0151661	Peripheral gangrene
+C0023448	Lymphocytic leukaemia
+C0860803	Glucose increased
+C0333516	Tumour necrosis
+C0086132	Depressive symptom
+C0751494	Convulsive seizure
+C0002170	Alopecia
+C0014534	Epididymitis
+C0151479	Amylase increased
+C0013473	Eating disorder
+C0235351	Tongue ulceration
+C0162291	Retinal ischaemia
+C0438142	Urine analysis abnormal
+C0948999	Urinary tract signs and symptoms
+C3203358	Hypoventilation
+C0861020	Insulin C-peptide decreased
+C0026836	Muscle relaxation
+C0041582	Ulcer
+C0009946	Conversion disorder
+C1510412	Vascular pseudoaneurysm
+C0235117	Withdrawal emotional
+C0032781	Postnasal drip
+C0235532	Cyanosis peripheral
+C0341858	Adenomyosis
+C0079035	Bradyarrhythmia
+C0034902	Aplasia pure red cell
+C0341164	Gastric ulcer haemorrhage
+C0151564	Cogwheel rigidity
+C0522042	Loss of control of legs
+C0853254	Nasal passage irritation
+C0025309	Meningoencephalitis
+C0948281	Malignant syndrome NOS
+C0034880	Hyperacusis
+C0011168	Dysphagia
+C0024902	Breast pain
+C0919883	Puncture site haemorrhage
+C0020473	Hyperlipidaemia
+C0002880	Autoimmune haemolytic anaemia
+C0239376	Pain of lower extremities
+C1456822	Claudication
+C0595883	Blood glucose decreased
+C0035302	Retinal artery occlusion
+C0919603	Application site urticaria
+C0748726	Allergic sinusitis
+C0206160	Reticulocytosis
+C0237314	Heart rate irregular
+C0025322	Premature menopause
+C0541941	Erection increased
+C0576093	Genu valgum
+C0020429	Hyperpathia
+C0021933	Intussusception
+C0151582	Urate crystalluria
+C0863113	Hypotension symptomatic
+C0027531	Neck injury
+C0025209	Melanosis
+C0344431	Monomorphic ventricular tachycardia
+C0344432	Multifocal ventricular tachycardia
+C0948643	Hyperuricosuria
+C0751495	Partial seizures
+C0553690	Reversible ischaemic neurological deficit
+C0853021	Blood oestrogen decreased
+C0042401	Vasodilation
+C0008513	Chorioretinitis
+C0521499	Injection site pigmentation changes
+C1142015	Blood bilirubin abnormal
+C0855622	Aspartate aminotransferase decreased
+C0151705	Retroperitoneal haemorrhage
+C0032461	Polycythaemia
+C0162311	Androgenetic alopecia
+C0151849	Phosphatase alkaline increased
+C0085636	Photophobia
+C0948586	Protein urine present
+C0236993	Other sleep disturbances
+C1504405	Pyramidal tract syndrome
+C0152006	Vitreous opacities
+C0033117	Priapism
+C0025362	Mental retardation
+C0235710	Chest discomfort
+C0042135	Uterine atony
+C0263105	Abdominal wall abscess
+C0235756	Semen abnormal
+C0239783	Groin pain
+C0205990	Vaginal prolapse
+C0234428	Consciousness abnormal
+C0162532	Variegate porphyria
+C0266011	Supernumerary nipple
+C0740409	Psychotic behaviour
+C0240322	Menstruation delayed
+C1737329	Dysmorphism
+C0600228	Cardio-respiratory arrest
+C0853149	Blood lactate dehydrogenase increased
+C0854438	Blepharal pigmentation
+C0030305	Pancreatitis
+C0024248	Lymphocele
+C0042485	Venous insufficiency
+C0556385	Alcohol craving
+C0410740	Finger deformity
+C1141861	Procedural complication
+C0877094	Application site haemorrhage
+C0438167	Electrocardiogram T wave abnormal
+C0004095	Asthenopia
+C0026986	Myelodysplastic syndrome
+C0853124	Blood follicle stimulating hormone increased
+C0596601	Gas
+C1696946	Polyomavirus-associated nephropathy
+C0474381	Chromatopsia
+C0020438	Hypercalciuria
+C0030332	Panophthalmitis
+C0274312	Graft complication
+C0525045	Affective disorder
+C0038732	Sulphaemoglobinaemia
+C0860851	Oestradiol increased
+C0277986	Gingival oedema
+C0038000	Splenic rupture
+C0026857	Musculoskeletal disorder
+C0221384	Follicular conjunctivitis
+C0152027	Sensory disturbance
+C0002447	Amelia
+C0541879	Detachment psychological
+C0022107	Irritability
+C0423086	Staring
+C0520802	Radiation recall syndrome
+C0040136	Thyroid neoplasm
+C0004238	Atrial fibrillation
+C0000727	Acute abdomen
+C0236061	Haptoglobin increased
+C3665346	Unspecified visual loss
+C0006905	Capillary fragility
+C0043250	Wound
+C0232943	Menometrorrhagia
+C0152167	Anal spasm
+C0235522	Vein disorder
+C0151826	Retrosternal pain
+C0259799	Punctate keratitis
+C0235750	Hypertension worsened
+C0264383	Organising pneumonia
+C0231274	Heat intolerance
+C0854058	pH urine increased
+C0085436	Meningitis cryptococcal
+C0151825	Bone pain
+C1269683	Major depression
+C0151872	Prothrombin level increased
+C0022660	Renal failure acute
+C0042790	Disorder sight
+C0400821	Colitis microscopic
+C1696701	Dermatillomania
+C0013295	Duodenal ulcer
+C1145628	Unspecified disorder of autonomic nervous system
+C0042568	Vertebrobasilar insufficiency
+C0521172	Eschar
+C0429097	QRS complex
+C0152965	Staphylococcal bacteraemia
+C0497201	Abnormal sensation in eye
+C0013927	Amniotic fluid embolism
+C0549478	Device expulsion
+C0000924	Accident
+C0151489	Arterial anomaly
+C0854069	Tumour pain
+C0424790	Rigors
+C2721559	Osmotic demyelination syndrome
+C0018939	Blood disorder
+C0021843	Intestinal obstruction
+C0007134	Renal cell carcinoma
+C0040137	Thyroid nodule
+C0264490	Acute respiratory failure
+C0679403	Vascular stenosis
+C0009759	Conjunctival disorder
+C0150055	Chronic pain
+C0853746	Blood creatinine abnormal
+C0025289	Meningitis
+C0919600	Application site hyperaesthesia
+C0405580	Adrenal cortical hypofunction
+C0023449	Acute lymphocytic leukaemia
+C1262535	Jaundice hepatocellular
+C0238033	Breast cancer male
+C0018995	Haemochromatosis
+C0042373	Angiopathy
+C0011882	Diabetic neuropathy
+C0030848	Peyronie's disease
+C0919924	Pulmonary toxicity
+C0392702	Abnormal involuntary movements
+C0700572	Mobility decreased
+C0013418	Abnormal labour
+C1328386	Breast fibroma
+C1292769	B-cell type acute leukaemia
+C1956346	Coronary artery disease
+C0009144	Tongue coated
+C0876973	Lung infection
+C0877127	Application site papules
+C0035126	Reperfusion injury
+C0016033	Fibrocystic disease
+C0042256	Vaginal itching
+C0006287	Bronchopulmonary dysplasia
+C0853885	Blood electrolytes decreased
+C0852792	Blood cortisol decreased
+C0026975	Myelitis
+C0151517	Atrioventricular block complete
+C0271355	VIth nerve paralysis
+C0011616	Dermatitis contact
+C0015230	Rash
+C0857493	Upper gastrointestinal symptoms
+C0152267	Hodgkin's disease lymphocyte depletion type stage unspecified
+C1608954	Infusion site extravasation
+C1527336	Sjogren's syndrome
+C0085084	Motor neurone disease
+C0853811	Croup infectious
+C0038435	Stress
+C0853785	Blood iron decreased
+C0349506	Photosensitivity
+C0553548	Angiitis necrotising
+C0265101	Carotid artery occlusion
+C0392196	Injection site urticaria
+C0015786	Female sexual arousal disorder
+C0001122	Acidosis
+C0030299	Pancreatic pseudocyst
+C0149514	Acute bronchitis
+C0920163	Idiopathic thrombocytopenia
+C0022680	Polycystic kidney
+C0751436	Tetrahydrobiopterin deficiency
+C1142160	Application site discolouration
+C0239816	Hand dermatitis
+C0271051	Macular oedema
+C0920195	Aphakic cystoid macular oedema
+C0949070	Upper respiratory tract congestion
+C0243010	Encephalitis viral
+C0235955	Dermatitis hemorrhagic
+C0155018	Colour blindness acquired
+C0037199	Sinusitis
+C0400839	Rectal ulcer
+C0003962	Ascites
+C2242588	Traumatic liver injury
+C0522172	Feeling drunk
+C0037763	Muscle spasms
+C0549288	Pelvic venous thrombosis
+C0549374	Lumbar disc lesion
+C0861111	Cardioactive drug level increased
+C0235267	Eye redness
+C0040128	Thyroid disorder
+C1696704	Ovarian haemorrhage
+C0023066	Laryngospasm
+C0011848	Diabetes insipidus
+C0016514	Foot and mouth disease
+C0235969	Ejaculation disorder
+C0040434	Tooth discolouration
+C0456511	Sleep paralysis
+C0039504	Tendon injury
+C0043144	Wheezing
+C0234916	Rash follicular
+C0162830	Photosensitivity reaction
+C0242461	Purpura non-thrombocytopenic
+C0036202	Sarcoidosis
+C0151891	Retinal depigmentation
+C0151464	Injection site abscess
+C0020437	Hypercalcaemia
+C0151686	Growth retardation
+C0948309	Pseudohyperkalaemia
+C0858833	Endometrial hypertrophy
+C0554976	Bradyphrenia
+C2363731	Oropharyngeal pain
+C0035304	Retinal degeneration
+C0151602	Swelling face
+C0546884	Hypovolaemia
+C0043387	Yawning
+C0015408	Eye injury
+C0948815	Catheter site erythema
+C0240521	Nipple tenderness
+C0857027	Feeling sick
+C0242656	Disease progression
+C0700225	Serum creatinine increased
+C0241832	Cerebrovascular insufficiency
+C0595862	Vasodilatation
+C0079744	Diffuse large B-cell lymphoma
+C2712871	Gout attack
+C0855618	Alanine aminotransferase decreased
+C0151541	Capillary fragility increased
+C1112366	Eyelid irritation
+C2242595	Mucosal atrophy
+C2010560	Gastritis haemorrhagic
+C0455204	Homicidal ideation
+C0241619	Vaginal cyst
+C0281981	Skin mass
+C0018800	Cardiomegaly
+C0156404	Menstruation irregular
+C0855625	Bilirubin conjugated increased
+C0023653	Lichenification
+C0040427	Tooth malformation
+C0235901	Lacrimation abnormal NOS
+C0020522	Type IV hypersensitivity reaction
+C0039496	Temporomandibular joint syndrome
+C0553576	Systemic mycosis
+C0151629	Fixed eruption
+C1696943	Hypoaesthesia facial
+C0600260	Obstructive airways disorder
+C0162292	External ophthalmoplegia
+C0178829	Reproductive tract disorder
+C0156353	Uterovaginal prolapse
+C0853193	Bipolar I disorder
+C0036396	Sciatica
+C0154833	Retinal vascular disorder
+C0033575	Prostatic disorder
+C0948692	Necrotising colitis
+C1261167	Sperm concentration
+C3495916	Myocardial hypertrophy
+C0234238	Ache
+C0002965	Angina unstable
+C1262064	Oculogyration
+C0011633	Dermatomyositis
+C0855223	Hallucinations	 mixed
+C0035305	Retinal detachment
+C0085635	Photopsia
+C0473311	Haemorrhagic ovarian cyst
+C2242576	Oropharyngeal blistering
+C1963718	Oculorespiratory syndrome
+C0151946	Pulmonary thrombosis
+C0155713	Papillary muscle rupture
+C0003621	Appetite disorder
+C0235046	Paraesthesia skin
+C0740858	Substance abuse
+C0877042	Graft loss
+C0578455	Abscess limb
+C0002063	Alkalosis
+C0236151	Renal function test abnormal
+C0026205	Miosis
+C0011253	Delusion
+C0003128	Anovulation
+C0020295	Hydronephrosis
+C0040147	Thyroiditis
+C1504363	Body temperature fluctuation
+C0151734	Injection site inflammation
+C0019557	Hip fracture
+C0574960	Sacroiliitis
+C0000737	Abdominal pain
+C0011991	Diarrhoea
+C1264613	Gastrointestinal infection
+C0857160	Numbness in leg
+C0020453	Hyperaesthesia
+C0233494	Tension
+C0024312	Lymphopenia
+C0852810	Blood creatinine decreased
+C0162386	Femur fracture subtrochanteric
+C0240327	Taste metallic
+C0278151	Facial spasm
+C1112138	Vascular hypotensive disorders
+C0007785	Cerebral infarction
+C0151436	Allergic cutaneous angiitis
+C0019345	Herpes labialis
+C0151828	Injection site pain
+C0032266	Pneumatosis cystoides intestinalis
+C0038454	Cerebrovascular accident
+C0857496	Thromboembolic event
+C0002395	Dementia Alzheimer's type
+C2129214	Loose stools
+C0795692	Hyperlactacidaemia
+C1510431	Thrombophlebitis superficial
+C0678222	Carcinoma breast
+C0575090	Balance disorder
+C0032460	Polycystic ovaries
+C0522067	Hepatic pain
+C0027051	Myocardial infarction
+C2364164	Fluid imbalance
+C1328411	Post procedural haematoma
+C0232910	Teratogenicity
+C1287298	Urine output
+C0239062	Circumoral oedema
+C0043096	Weight decreased
+C0853246	Eczema exacerbated
+C0239161	Dactylitis
+C0423729	Painful respiration
+C1610049	Application site exfoliation
+C0549433	Surgical intervention
+C0010823	Cytomegalovirus infection
+C0851886	Pneumocystis carinii infection
+C0948031	Primary graft dysfunction
+C0017657	Glomerulitis
+C1442903	Exostosis
+C0333139	Pneumatosis
+C1457883	Aggressive reaction
+C0151547	Cataract specified
+C0860209	Gallbladder sludge
+C0549400	Apgar score low
+C0018681	Headache
+C1096049	Infusion site swelling
+C1112537	Neurological examination abnormal
+C1142139	Drug reaction with eosinophilia and systemic symptoms
+C0574002	Foot edema
+C0042143	Uterine rupture
+C1736186	Postoperative shivering
+C0151595	Digitalis intoxication (NOS)
+C0854380	Blood insulin decreased
+C0221752	Blood urine
+C0520547	Poor peripheral circulation
+C0018674	Head injury
+C1306571	Hepatic insufficiency
+C0001622	Hyperadrenocorticism
+C0085622	Monoplegia
+C0149756	Plantar fasciitis
+C0151907	Skin discolouration
+C0580417	International normalised ratio abnormal
+C0032227	Pleural effusion
+C0475765	Nasal oedema
+C0151609	Scrotal oedema
+C0025345	Menstrual disorder
+C0021100	Bullous impetigo
+C0948811	Artificial kidney clotting during dialysis
+C0018790	Cardiac arrest
+C0438215	Laboratory test abnormal
+C0021605	Insomnia NEC
+C0521591	Paraesthesia oral
+C0272753	Femur shaft fracture
+C0426649	Bowel spasm
+C0239377	Pain in arm
+C0042075	Urinary tract disorder
+C0851578	Sleep disorder
+C0152202	Acquired night blindness
+C0011432	Sensitivity of teeth
+C0233718	Pressure of speech
+C1168134	Anti-thyroid antibody positive
+C0877211	General physical health deterioration
+C0004144	Atelectasis
+C0151624	Ulcerative enterocolitis
+C0239343	Acral erythema
+C0858775	Myopia transient
+C0023067	Laryngitis
+C0156369	Uterine polyp
+C0023524	Progressive multifocal leukoencephalopathy
+C0001546	Adjustment disorder
+C0240802	Pregnancy test positive
+C0239134	Productive cough
+C0852908	Drug ineffective
+C0019243	Hereditary angioedema
+C1504411	Post procedural oedema
+C0576995	Pharyngeal haemorrhage
+C0015663	Fasting
+C0346156	Benign breast neoplasm
+C0040156	Thyrotoxicosis
+C0235248	Vasoconstriction peripheral
+C0085077	Acute febrile neutrophilic dermatosis
+C0007398	Catatonia
+C0855242	Disturbance in sexual arousal
+C0751295	Memory loss
+C0041364	Tumour lysis syndrome
+C0040046	Thrombophlebitis
+C0520887	Electrocardiogram ST segment depression
+C0037317	Sleep disturbance
+C0332573	Macule
+C0549253	Bladder dilatation
+C0237326	Dyschezia
+C0017672	Glossodynia
+C0855247	Sleep attacks
+C0948873	Flu symptoms
+C0699744	Ear infection
+C0241012	Serum ferritin decreased
+C0162529	Colitis ischaemic
+C0521845	Drug effect decreased
+C0027540	Necrosis
+C0013404	Dyspnoea
+C0162279	Choroidal detachment
+C0521503	Injection site burning
+C0242184	Hypoxia
+C0030794	Pelvic pain
+C0392171	Influenza-like symptoms
+C1271398	Pigment dispersion syndrome
+C0920016	Adnexa uteri cyst
+C0004331	Atrioventricular dissociation
+C0027720	Nephrosis
+C0520878	Electrocardiogram PR shortened
+C0027339	Nail disorder
+C0549567	Pigmentation disorder
+C0235863	Delayed delivery
+C0042138	Uterine neoplasm
+C0740804	Adnexal torsion
+C1112346	Prostate induration
+C0038587	Withdrawal syndrome
+C0021899	IUD expelled
+C0003708	Arachnoiditis
+C0014868	Oesophagitis
+C0042029	Urinary tract infection
+C0019214	Hepatosplenomegaly
+C0235952	Diarrhoea	 Clostridium difficile
+C0009663	Anogenital warts
+C0851302	Shock hypoglycaemic
+C0031048	Pericarditis constrictive
+C0580531	White blood cell count abnormal
+C0036130	Salpingitis
+C0036982	Shock haemorrhagic
+C0032231	Pleurisy
+C0235113	Emotional poverty
+C0156394	Enlarged clitoris
+C0040127	Thyrotoxic crisis
+C0376356	Premenstrual tension
+C0032987	Ectopic pregnancy
+C0558919	Stress at work
+C0858751	Lip blister
+C0242429	Throat sore
+C0149725	Lower respiratory tract infection
+C0015645	Fasciitis
+C0522165	Feeling of relaxation
+C0580550	Lymphocyte count abnormal
+C0281913	Muscle swelling
+C0155320	Blindness cortical
+C0008728	Allergic granulomatous angiitis
+C0149931	Migraine
+C0851354	Ear and labyrinth disorders
+C0242231	Coronary artery stenosis
+C0343084	Capillary leak syndrome
+C0026827	Hypotonia
+C0235746	Saliva altered
+C0085641	Rash pustular
+C0020546	Hypertensive crisis
+C0085637	Oculogyric crisis
+C0574741	Skin bleeding
+C0549209	Feeling jittery
+C1519353	Rash papular
+C0595928	Serum calcium increased
+C0080203	Tachyarrhythmia
+C0854467	Myelosuppression
+C0236051	Tolerance development
+C0020565	Hypertrophy of breast
+C0003044	Animal bite
+C0558353	Carcinoma of tongue
+C1609512	Vulvovaginal mycotic infection
+C0240515	Nipple pain
+C0017574	Gingivitis
+C0948807	Hepatic impairment
+C0013456	Ear pain
+C0221150	Odynophagia
+C0276141	Bronchitis viral
+C0919620	Electrocardiogram ST-T change
+C1535975	Pelvic discomfort
+C0023787	Lipodystrophy
+C0037301	Skin wrinkling
+C0151882	Purpuric rash
+C0920157	Mesenteric ischemia
+C1504578	Implant breakage
+C0745153	Hypoglycaemic episode
+C0002622	Amnesia
+C0037299	Skin ulcer
+C0521839	Influenza like illness
+C0850758	Pelvic pain female
+C0033893	Tension headache
+C0877305	Postoperative wound complication
+C0427457	Red blood cell count decreased
+C1142333	Oral mucosal irritation
+C0151664	Gastrointestinal perforation
+C0034103	Pulpitis dental
+C0549475	Lipase increased
+C0031039	Pericardial effusion
+C0242891	Tooth injury
+C0743400	Ejection fraction decreased
+C0017185	Gastrointestinal neoplasm
+C0009938	Contusion
+C1140680	Ovarian cancer
+C0521169	Compression fracture
+C0751523	Nonconvulsive status epilepticus
+C0034194	Pyloric stenosis
+C0497156	Lymphadenopathy
+C0235893	Allergy aggravated
+C0852336	Anaemias haemolytic immune
+C1096106	Wound complication
+C0852911	Blood alkaline phosphatase increased
+C0030922	Peptic ulcer haemorrhage
+C0031117	Neuropathy peripheral
+C0234533	Convulsions generalised
+C0392167	Drug effect prolonged
+C0038045	Sprain
+C0043352	Dry mouth
+C0016479	Food poisoning
+C0333355	Mucosal inflammation
+C0278045	Urine odour abnormal
+C0003869	Arthritis infective
+C0235063	Respiratory depression
+C0221021	Microangiopathic haemolytic anaemia
+C0236075	Menopausal symptoms
+C1112320	Temperature intolerance
+C0376297	Cardiac death
+C0004161	Sports injury
+C0546959	Atrial tachycardia
+C0948484	Anal discomfort
+C0235069	Tetanus-like
+C0262385	Autonomic nervous system imbalance
+C0021141	Inappropriate antidiuretic hormone secretion
+C0042063	Congenital genitourinary abnormality
+C0702163	Trichorrhexis
+C0240557	Nasal irritation
+C0151691	High density lipoprotein decreased
+C0239935	Haematocrit increased
+C0580546	Blood glucose abnormal
+C0973461	Dysphasia
+C0520901	Increased skin sensitivity
+C0026919	Atypical mycobacterial infection
+C0155709	Atrial fibrillation and flutter
+C0085649	Oedema peripheral
+C0585186	Cutaneous hypersensitivity
+C0233514	Abnormal behaviour
+C0040435	Tooth disorder
+C0015393	Congenital eye disorder
+C0521694	Retinal atrophy
+C0595877	Blood glucose increased
+C0948301	Application site skin breakdown
+C0423798	Increased tendency to bruise
+C0795690	Omphalocele
+C0476369	Echocardiogram abnormal
+C0233569	Physical wandering
+C0002886	Anaemia macrocytic
+C0232861	Penile discharge
+C0007869	Uterine cervical erosion
+C0413252	Hypothermia
+C0410256	Muscle injury
+C0020255	Hydrocephalus
+C0853084	High density lipoprotein increased
+C0860160	Diabetes mellitus inadequate control
+C0027794	Neural tube defect
+C0240211	Lip swelling
+C0011630	Fungal skin infection
+C0085679	Hyperchloraemia
+C0079924	Oligohydramnios
+C0006285	Bronchopneumonia
+C0004691	Balanoposthitis
+C0521554	Congenital vesicoureteric reflux
+C0853700	Application site erythema
+C0007370	Catalepsy
+C0034155	Thrombotic thrombocytopenic purpura
+C0151752	Lactation female
+C0877104	Retinal toxicity
+C3160858	Posterior reversible encephalopathy syndrome
+C0948349	Respiratory tract congestion
+C2242496	Parotid gland inflammation
+C0085594	Fever chills
+C0019080	Haemorrhage
+C0151311	Cranial nerve paralysis
+C0079043	Bronchoconstriction
+C0007758	Cerebellar ataxia
+C2721578	Pulmonary oil microembolism
+C0427008	Stiffness
+C0017565	Gingival bleeding
+C0007193	Congestive cardiomyopathy
+C0231875	Wheezing expiratory
+C0020757	Ichthyosis
+C0004659	Bacteriuria
+C0549383	Ovarian hyperstimulation
+C0018500	Hair disorder
+C0877363	Gynecological-related pain
+C0423008	Eye bleeding
+C0009062	Clostridial infection
+C0553704	Serum potassium increased
+C0002957	Anger
+C0424323	Violent behavior
+C2750515	Subcutaneous bleeding
+C0206624	Hepatoblastoma
+C1692886	Arthritis bacterial
+C0013384	Dyskinesia
+C0235238	Cycloplegia
+C0424740	Cold hands
+C0338573	Intracranial venous sinus thrombosis
+C0221237	Angular cheilitis
+C0151596	Tongue discolouration
+C0024228	Lymphatic disorder
+C1262299	Oral papilloma
+C0006271	Bronchiolitis
+C0341177	Gastric erosions
+C0338831	Mania
+C0027441	Nasopharyngitis
+C1697747	Laryngeal haemorrhage
+C0496899	Brain neoplasm benign
+C0021390	Inflammatory bowel disease
+C0028738	Nystagmus
+C0948817	Catheter site inflammation
+C0037293	Acrochordon
+C0018520	Breath odour
+C0877450	Obnubilation
+C0151955	Decreased tolerance
+C0853619	Local swelling
+C0042024	Urinary incontinence
+C0014034	Enanthema
+C0040584	Tracheitis
+C0150077	Skin breakdown
+C0741921	Cardiac enzymes increased
+C0043251	Trauma
+C2609183	Abnormal withdrawal bleeding
+C0152115	Orofacial dyskinesia
+C0236023	Periodontal destruction
+C0262431	Spinal compression fracture
+C0151463	Breast abscess
+C0024115	Lung disorder
+C0549399	Low density lipoprotein increased
+C0030486	Paraplegia
+C0521706	Cataract unilateral
+C0877303	Post procedural pain
+C0015967	Body temperature increased
+C0427108	Unsteadiness
+C0553731	PRL increased
+C0035455	Rhinitis
+C0031085	Abscess periodontal
+C1735368	Acute dystonia
+C0265935	Congenital arterial malformation
+C0750466	Yeast infection
+C0497217	Other disorders of eye
+C0234131	Motor dysfunction
+C0852173	Bladder and urethral symptoms
+C0151599	Drug level increased
+C0020452	Hyperaemia
+C0031873	Pica
+C0392106	Hepatic artery thrombosis
+C0687713	Gastrointestinal pain
+C0035326	Retinal vascular occlusion
+C0856088	Constipation aggravated
+C0853087	Nail abnormality NOS
+C1167779	Neutropenic infection
+C0040797	Traumatic haemorrhage
+C0001206	Acromegaly
+C0543698	Hypersensitive syndrome
+C0920171	Foreign body sensation in eyes
+C0239946	Hepatic fibrosis
+C0232197	Cardiac fibrillation
+C1735348	Anal irritation
+C0033247	Proctocolitis
+C0677658	Breast disorder female
+C0011124	Libido decreased
+C0233401	Psychiatric symptom
+C0042164	Uveitis
+C0080194	Muscle strain
+C0017979	Glycosuria
+C0034013	Precocious puberty
+C1868809	Catheter thrombosis
+C0700590	Sweating increased
+C0235763	Psoriasis flare-up
+C0553686	Brain herniation
+C0028960	Oligospermia
+C0546956	Onychoclasis
+C0085652	Pyoderma gangrenosum
+C1384606	Dyspareunia
+C1112436	QRS axis abnormal
+C0156181	Peritoneal adhesions
+C0596170	Binge eating
+C0235847	Hyperhemoglobinemia
+C0024314	Lymphoproliferative disorder
+C0006848	Mucocutaneous candidiasis
+C0036341	Schizophrenia
+C0019065	Peritoneal haemorrhage
+C0151765	Liver fatty deposition
+C2607914	Rhinitis allergic
+C0020569	Salivary gland enlargement
+C0031256	Petechiae
+C0020615	Hypoglycaemia
+C0018798	Heart malformation
+C0235050	Tingling skin
+C0032989	Multiple pregnancy
+C0858093	Plasma calcium decreased
+C0014175	Endometriosis
+C0158775	Spine malformation
+C0042345	Varicose vein
+C0546817	Fluid overload
+C0014306	Enophthalmos
+C1142357	Symptomatic hyperlactatemia
+C0239885	Headache dull
+C0242420	Retinal oedema
+C0262417	Pancreatitis acute on chronic
+C0036104	Salivation
+C0013132	Drooling
+C1333984	Hepatosplenic T-cell lymphoma
+C0035435	Rheumatism
+C0242379	Lung neoplasm malignant
+C0600125	Electrocardiogram PR prolongation
+C0344304	Abdominal pain generalised
+C0221242	Fixed drug eruption
+C0860645	Bizarre dreams
+C0234987	Dizziness postural
+C0232498	Abdominal tenderness
+C0542149	Injection site phlebitis
+C0018944	Haematoma
+C0028754	Obesity
+C0149651	Clubbing
+C0854097	Hypoaesthesia eye
+C1852242	AION
+C0852361	Skin haemorrhage
+C0235266	Eye irritation
+C0020619	Hypogonadism
+C0853402	Exposure to poisonous plant
+C0221706	Road traffic accident
+C0085166	Vaginitis bacterial
+C0009952	Febrile convulsion
+C0010072	Coronary artery thrombosis
+C0521507	Injection site ulcer
+C0039591	Testicular pain
+C0919659	Oropharyngeal candidiasis
+C0009376	Colonic polyp
+C0036420	Circumscribed scleroderma
+C0856151	Fat redistribution
+C0019829	Hodgkin's disease
+C0030319	Panic disorder
+C0235234	Dry throat
+C0853089	Intentional self-injury
+C0746961	Oxygen saturation decreased
+C0392684	Pulse irregular
+C0151899	Syndrome screaming
+C0876980	Headache aggravated
+C0520893	Localized exfoliation
+C1321898	Blood in stool
+C0153690	Bone cancer metastatic
+C0542027	Hypercoagulation
+C0032994	Tubal pregnancy
+C0020564	Hypertrophy
+C0232352	Vascular insufficiency
+C0006625	Cachexia
+C0019193	Hepatitis toxic
+C0035344	Retinopathy of prematurity
+C0023518	Leukocytosis
+C0541820	Carbohydrate tolerance decreased
+C0259817	Xerosis
+C0013985	Emotional disturbance NOS
+C0151685	Growth accelerated
+C3251821	Catatonic reaction
+C0221780	Rectal discharge
+C0034359	Pyuria
+C0085610	Sinus bradycardia
+C0151576	Creatine phosphokinase increased
+C0038826	Superinfection
+C0240564	Nasal pain
+C0042594	Vestibular disorder
+C0028768	Obsessive-compulsive disorder
+C0000932	Traffic accident
+C0151854	Abnormal platelets
+C0017150	Gastrinoma
+C0020620	Hypohidrosis
+C0233697	Obsessive rumination
+C0012746	Dissociative disorder
+C3544060	Accidental exposure to product
+C0012691	Joint dislocation
+C0156312	Testicular atrophy
+C0235988	Serum iron decreased
+C1384666	Hearing impaired
+C0019572	Hirsutism
+C0003855	Arteriovenous fistula
+C0151588	Deafness transitory
+C0020678	Hypotrichosis
+C0039231	Tachycardia
+C1112209	Abdominal infection
+C0011884	Diabetic retinopathy
+C0005747	Blepharospasm
+C0020540	Malignant hypertension
+C0268621	Hypermethioninaemia
+C0220982	Ketoacidosis
+C0271710	Hypoglycemic reaction
+C0014859	Oesophageal neoplasm
+C0271468	Eustachian tube disorder
+C0548823	Distress gastrointestinal
+C0549622	Sexual dysfunction
+C1261473	Sarcoma
+C0029443	Osteomyelitis
+C0409497	Joint injury
+C0877126	Application site inflammation
+C0877097	Application site vesicles
+C0235074	Tongue paralysis
+C0019147	Coma hepatic
+C0241166	Skin tightness
+C0022667	Renal papillary necrosis
+C0549419	Skin fragility
+C0700502	Primary hypothyroidism
+C0079027	Intraoperative hemorrhage
+C0085692	Cystitis haemorrhagic
+C0029463	Osteosarcoma
+C0877635	Cytomegalovirus viraemia
+C0221773	Hyperamylasaemia
+C0232191	Reflex bradycardia
+C0015802	Femur fracture
+C0002453	Amenorrhoea
+C0151911	Generalised spasm
+C0852334	Joint related signs and symptoms
+C0162678	Neurofibromatosis
+C0152018	Oesophageal carcinoma
+C0014130	Endocrine disorder
+C0549356	Inflicted injury
+C1619702	Device related infection
+C0259768	Wound dehiscence
+C0276908	Pneumocystis jirovecii infection
+C0235309	Upset stomach
+C0234369	Trembling
+C1141863	Lymphocyte transformation test positive
+C0152169	Renal colic
+C0018780	High frequency deafness
+C1456865	Calculus ureteric
+C0004377	Automatism
+C0240735	Personality change
+C0242151	Violent
+C0021359	Infertility
+C0162824	Photocontact dermatitis
+C0236024	Pharyngeal oedema
+C0878588	Sphincter of Oddi dysfunction
+C0595902	Blood chloride decreased
+C0002792	Anaphylactic shock
+C0519030	Pneumonia klebsiella
+C0151827	Eye pain
+C0022281	Eye pruritus
+C0860745	Blood monocytes increased
+C0600327	Toxic shock syndrome
+C1320835	Drug fever
+C0038362	Stomatitis
+C0151476	Alkalosis hypochloraemic
+C0162628	Viral skin infection
+C0549393	Alcohol problem
+C0221345	Nail discolouration
+C0235960	Parkinsonism aggravated
+C1306889	Peripheral arterial occlusive disease
+C0494559	Inner ear disorder
+C0314719	Dry eye
+C0034530	Radiation injury
+C0023321	Lentigo
+C0008497	Choriocarcinoma
+C0034150	Purpura
+C1112565	Pneumatosis intestinalis
+C0235002	Head discomfort
+C0151773	Bone marrow depression
+C0034887	Rectal polyp
+C0031924	Piloerection
+C0036572	Convulsion
+C0595930	Blood cholesterol increased
+C1142239	Call-Fleming syndrome
+C0022893	Labyrinthitis
+C0162281	Corneal deposits
+C0037290	Pigmentation skin
+C0030252	Palpitations
+C1959797	Allergic hepatitis
+C0007855	Cervical polyp
+C0851664	Bullous conditions
+C0007302	Chondropathy
+C0019270	Hernia
+C0085620	Paralysis flaccid
+C0007102	Colon cancer
+C0521500	Injection site extravasation
+C0001430	Adenoma benign
+C0877613	Rectal cramps
+C0000772	Multiple congenital abnormalities
+C0423153	Lacrimation
+C2004487	Vaginismus
+C0149732	Muscle rupture
+C0017160	Gastroenteritis
+C0239234	Low set ears
+C0029877	Otitis
+C0521854	Drug tolerance decreased
+C1279296	Chronic leukaemia
+C0424489	Chapped lips
+C0275524	Infection mixed
+C0027424	Nasal congestion
+C0241266	Subcutaneous abscess
+C0877336	Blood bilirubin decreased
+C0241013	Serum ferritin increased
+C0339916	Viral upper respiratory tract infection
+C0555120	White blood cells urine positive
+C0034012	Delayed puberty
+C0026858	Musculoskeletal pain
+C0005694	Bladder neck obstruction
+C0853019	Blood thyroid stimulating hormone increased
+C1608942	Complication of device insertion
+C0857073	Cold hands & feet
+C0393760	Initial insomnia
+C0034050	Alveolar proteinosis
+C0424813	Orbital oedema
+C0238461	Anaplastic thyroid cancer
+C0853714	Application site pruritus
+C0162316	Iron deficiency anaemia
+C0236071	Throat tightness
+C1704437	Respiratory distress syndrome
+C1141948	Troponin increased
+C0014541	Epiglottitis
+C0520575	Pyelonephritis acute
+C0232203	Atrial rhythm
+C0549418	Urine flow decreased
+C0521464	Skin oedema
+C0042267	Vaginal inflammation
+C0877365	Infusion site erythema
+C0241910	Autoimmune hepatitis
+C0023467	Acute myeloid leukaemia
+C0151937	Tendon rupture
+C0949103	Catheter site pain
+C0235218	Skin warm
+C0151671	Glucose tolerance decreased
+C0010598	Cyclothymic disorder
+C0002962	Angina pectoris
+C0010666	Acne cystic
+C0152168	Spasm of sphincter of Oddi
+C0000786	Abortion spontaneous
+C1696700	C1 esterase deficiency acquired
+C0948376	Electrocardiogram ST-T segment abnormal
+C0155919	Acute pulmonary oedema
+C0877334	Arterial stenosis limb
+C0085625	Hypoalgesia
+C0860499	Conjunctival follicles
+C0744727	Haematocrit decreased
+C0235472	Pulse abnormal
+C0948266	Latent tetany
+C0003486	Aortic aneurysm
+C0151814	Coronary artery occlusion
+C0919582	Sudden onset of sleep
+C0271420	Ceruminosis
+C0860210	Granulomatous liver disease
+C0151636	Ventricular extrasystoles
+C0043145	Whiplash injury
+C0339383	Chorioretinopathy
+C0442874	Neuropathy
+C0022904	Lacrimal disorder
+C0158986	Hypoglycaemia neonatal
+C0033860	Psoriasis
+C0877609	Alertness decreased
+C0018808	Cardiac murmur
+C0587246	Limb paresis
+C0154041	Parathyroid tumour benign
+C0003460	Anuria
+C1704436	Peripheral arterial disease
+C0038525	Subarachnoid haemorrhage
+C0221714	Injection site infection
+C0542519	Renal agenesis
+C0009193	Coccydynia
+C0271429	Otitis media acute
+C0235706	Back distress
+C0231441	Immobile
+C0035309	Retinal disorder
+C0026976	Myelitis transverse
+C0877605	Burning anal
+C0854029	Blood creatine increased
+C0042900	Vitiligo
+C0015944	Premature rupture of membranes
+C0855333	Electrocardiogram QT corrected interval prolonged
+C0234909	Nail changes
+C0742339	Chest heaviness
+C0004114	Astrocytoma
+C1096355	Electrocardiogram U-wave abnormality
+C0748536	Scleral haemorrhage
+C0241136	Pain of skin
+C0007115	Thyroid cancer
+C0042907	Vitreous detachment
+C0392025	Enlargement abdomen
+C0024440	Cystoid macular oedema
+C0151723	Hypomagnesaemia
+C0265031	Haemorrhoidal haemorrhage
+C0302590	Disorder calcium (NOS)
+C0151529	Bleeding time prolonged
+C0022572	Keratoacanthoma
+C0029163	Mouth haemorrhage
+C0494475	Tonic-clonic seizures
+C0686347	Tardive dyskinesia
+C0040441	Tooth fracture
+C0700594	Radiculopathy
+C0029456	Osteoporosis
+C0035243	Respiratory tract infection
+C0541881	Difficulty focusing eyes
+C0014804	Erythromelalgia
+C0008733	Chylothorax
+C0269993	Suppressed lactation
+C0282612	Prostatic intraepithelial neoplasia
+C0853786	Blood sodium abnormal
+C0004610	Bacteraemia
+C0158266	Intervertebral disc degeneration
+C1167675	Application site folliculitis
+C0032463	Polycythaemia vera
+C0221392	Vaginitis atrophic
+C3241958	Myocardial disorder
+C0860603	Anxiety symptoms NOS
+C0017412	Genital disorder male
+C0584995	Writing impaired
+C0009917	Muscle contracture
+C0020498	Senile ankylosing vertebral hyperostosis
+C0001364	Acute yellow liver atrophy
+C0162297	Respiratory arrest
+C0376175	Bell's palsy
+C0024137	Cutaneous lupus erythematosus
+C1328466	Laryngopharyngeal dysesthesia
+C0856136	Fatigue aggravated
+C0018811	Foetal heart rate
+C0031133	Vermiculation
+C0854082	Blood prolactin increased
+C0037023	Sialoadenitis
+C0235735	Unexpected therapeutic effect
+C0242339	Dyslipidaemia
+C1387528	Acute haemolytic anaemia
+C0858797	Instillation site pain
+C0948369	Myocardial reinfarction
+C0243026	Sepsis
+C0241254	Mucous stools
+C0009241	Cognitive disorder
+C0035328	Retinal vein occlusion
+C0235369	Hepatitis granulomatous
+C0239521	Facial rash
+C0521481	Oedema mucosal
+C0679048	Obsessive thoughts
+C1096717	Pain during injection
+C0241157	Pustule
+C0030521	Parathyroid tumour
+C0589616	Genitourinary chlamydia infection
+C0340613	Arterial aneurysm
+C0549225	Myasthenic syndrome
+C0423636	Cardiac pain
+C0009760	Conjunctival haemorrhage
+C0151883	Vesiculobullous rash
+C0026640	Oral neoplasm
+C0262988	Cutaneous vasculitis
+C2939447	Right ventricular failure
+C0030196	Pain in extremity
+C2981158	Loss of libido
+C0520463	Hepatitis chronic active
+C0852354	Apocrine and eccrine gland disorders
+C0151981	Peptic ulcer reactivated
+C0020649	Hypotension
+C0004093	Asthenia
+C0239093	Conjunctival irritation
+C0029118	Opportunistic infection
+C0235439	Ankle edema
+C0013395	Dyspepsia
+C0853908	Oropharyngeal swelling
+C0742115	Cerebritis
+C0027719	Nephrosclerosis
+C0027125	Myotonia
+C1611174	Post-traumatic pain
+C1411873	Ovulation disorder
+C0035317	Retinal haemorrhage
+C0854985	Lung adenocarcinoma stage I
+C0019151	Hepatic encephalopathy
+C0004509	Azoospermia
+C0009676	Confusional state
+C0027609	Drug withdrawal syndrome neonatal
+C0175167	Acneiform eruption
+C0549410	Palmar-plantar erythrodysaesthesia syndrome
+C0854431	Injection site vesicles
+C0240717	Perineal pain
+C0427546	Lymphocyte abnormal
+C0152029	Sinus congestion
+C0016722	Frigidity
+C0007384	Cataplexy
+C0037278	Skin infection
+C0043094	Weight increased
+C0151628	Epiphyses premature fusion
+C0021051	Immunodeficiency
+C0221717	Contact lens intolerance
+C0406317	Plaque psoriasis
+C0011644	Scleroderma
+C0151623	Enterocolitis haemorrhagic
+C0267925	Bile duct stenosis
+C0853348	Arthropod bite
+C0024305	Non-Hodgkin's lymphoma
+C0877056	Hypoglycaemic seizure
+C0032961	Pregnancy
+C0008925	Cleft palate
+C0270458	Psychotic depression
+C0016045	Fibroma
+C0003492	Coarctation of the aorta
+C1504422	Application site hypersensitivity
+C0392548	Cauda equina syndrome
+C0155003	Blindness transient
+C0750426	White blood cell count increased
+C0014743	Erythema nodosum
+C0005967	Bone neoplasm
+C1609496	Eyelid exfoliation
+C0026826	Hypertonia
+C0024523	Malabsorption
+C0005818	Platelet disorder
+C0151477	Hormone level abnormal
+C0857051	Bad dreams
+C0085617	Arterial spasm
+C0242979	Muscle fatigue
+C0149504	Toxic encephalopathy
+C0085584	Encephalopathy
+C0027707	Nephritis interstitial
+C0853050	Blood acid phosphatase increased
+C0029442	Osteomalacia
+C0741494	Bilirubin total increased
+C0019196	Hepatitis C
+C1688637	Intraoperative floppy iris syndrome
+C0242973	Ventricular dysfunction
+C0948299	Application site discharge
+C0541900	Disulfiram like reaction
+C0011175	Dehydration
+C0004134	Ataxia
+C0239454	Erythema of eyelid
+C0853762	Exacerbation of hot flushes
+C0854121	Gastrointestinal motility disorder
+C0012833	Dizziness
+C0853857	Cellulitis staphylococcal
+C0235338	Salivary gland pain
+C0025517	Metabolic disorder
+C1321632	Venous thrombosis deep limb
+C0018924	Haemarthrosis
+C0001623	Adrenal insufficiency
+C0278134	Sensory loss
+C0028173	NPN increased
+C0037859	Spermatocele
+C0241705	Strangury
+C0030824	Penicillin allergy
+C0010930	Dacryocystitis
+C0235567	Sputum increased
+C0849925	Ventricular failure
+C0035400	Reye's syndrome
+C0240417	Muscle mass
+C0013146	Drug abuse
+C1140716	Hypoxic-ischaemic encephalopathy
+C0013362	Dysarthria
+C0234376	Action tremor
+C0155177	Eczema eyelids
+C0855329	Electrocardiogram change
+C0851444	Allergic conditions
+C0560024	Swelling of eyelid
+C0235639	Urine abnormality
+C0235560	Respiratory tract haemorrhage
+C0040580	Tracheal disorder
+C1739363	Prostatic hypertrophy
+C0234535	Clonic convulsion
+C0457798	Dermatitis eyelid
+C0302870	Microcytic
+C0016169	Fistula
+C0086565	Hepatic function abnormal
+C0740292	5'nucleotidase increased
+C0085688	Breast engorgement
+C0235401	Glucose tolerance abnormal
+C0008311	Cholangitis
+C0022661	Renal failure chronic
+C0920184	Fundic gland polyp
+C1442998	Colpocele
+C0027429	Nasal obstruction
+C0017668	Focal segmental glomerulosclerosis
+C0085623	Akinesia
+C0015695	Liver fatty
+C0151740	Intracranial pressure increased
+C0235827	Therapeutic response decreased
+C0005944	Bone metabolism disorder
+C0019360	Herpes zoster
+C0948522	Ocular vascular disorder
+C0404521	Vaginal infection
+C0234518	Slurred speech
+C0877113	Scar pain
+C0159056	Abnormal chest sounds NOS
+C0151736	Accidental injury
+C1112113	Vascular hypertensive disorders
+C0853893	Device interaction
+C0085570	Alkalosis hypokalaemic
+C0004623	Bacterial infection
+C0347950	Asthmatic attack
+C0701836	Thermal burn
+C0162834	Skin hyperpigmentation
+C0853008	Parkinson's disease aggravated
+C0085606	Micturition urgency
+C0037998	Splenic infarction
+C0549430	Procedural site reaction
+C0027769	Nervousness
+C0264909	Defect conduction intraventricular
+C0035222	Acute respiratory distress syndrome
+C0553706	Serum phosphate increased
+C0863084	Skin discomfort
+C0393444	Meningitis chemical
+C0567085	Uterine pain
+C0162533	Porphyria hepatic
+C0032788	Postoperative hemorrhage
+C0011849	Diabetes mellitus
+C0012359	Distention
+C3665386	Abnormal vision
+C0085616	Vasospasm
+C0154946	Acute angle-closure glaucoma
+C0233471	Flat affect
+C0859978	Amylase decreased
+C0392699	Dysaesthesia
+C0007194	Hypertrophic cardiomyopathy
+C1141893	Muscle enzyme increased
+C0151491	Congenital musculoskeletal anomaly
+C0002418	Amblyopia
+C0232807	Function kidney decreased
+C0038814	Sunburn
+C0241442	Protrusion tongue
+C0151604	Oedema genital
+C0235169	Excitability
+C0019880	Homocystinuria
+C0035579	Rickets
+C1739111	Foetal anticonvulsant syndrome
+C0919980	VIIth nerve paralysis
+C0020555	Hypertrichosis
+C0577822	Heart sounds abnormal
+C0008449	Chondrodystrophy
+C0267716	Incisional hernia
+C0231557	Bone development abnormal
+C0264995	Arterial occlusion
+C1510471	Hypovitaminosis
+C0032519	Polymenorrhoea
+C1328291	Dysaesthesia pharynx
+C1696574	Application site erosion
+C0521509	Injection site induration
+C2242575	Compulsive shopping
+C0080274	Urinary retention
+C1112789	Rectal spasm
+C0016059	Fibrosis
+C1740832	AML progression
+C0595882	Serum calcium decreased
+C0267028	Lip pain
+C0877322	Muscle tightness
+C0856100	Pancreatitis aggravated
+C3665818	Medication residue present
+C0018932	Haematochezia
+C0341702	Fanconi syndrome acquired
+C0231218	Malaise
+C0012813	Diverticulitis
+C0151698	Injection site haemorrhage
+C0750151	Vaso-occlusive crisis
+C0014356	Enterocolitis
+C0700184	Throat irritation
+C0740394	Hyperuricaemia
+C0042769	Viral infection
+C0026764	Plasma cell myeloma
+C0150450	Altered state of consciousness
+C0003811	Arrhythmia
+C0151721	Hypogonadism male
+C0521505	Injection site dermatitis
+C0730362	Maculopathy
+C1112722	Mental impairment disorders
+C0858357	Oesophageal stenosis acquired
+C0017658	Glomerulonephritis
+C0024437	Macular degeneration
+C0235324	Gingival swelling
+C0016412	Folate deficiency
+C0242966	Systemic inflammatory response syndrome
+C0235890	Migraine aggravated
+C0085932	Dermatitis bullous
+C0032533	Polymyalgia rheumatica
+C0028643	Numbness
+C0040822	Tremor
+C0020502	Hyperparathyroidism
+C0524662	Dependence on opiates
+C0151936	Tendon disorder
+C0233773	Hypnagogic hallucination
+C0005586	Bipolar disorder
+C0860239	Catheter related infection
+C0151662	Gamma-glutamyltransferase increased
+C0151626	Necrolysis epidermal
+C1527401	Shock insulin
+C0232766	Asterixis
+C0235527	Cardiac failure right
+C2004491	Scar
+C0702166	Acne
+C0040053	Thrombosis
+C0023501	Leukaemoid reaction
+C0014869	Reflux esophagitis
+C0232492	Abdominal pain upper
+C0849918	Eyelids pruritus
+C0403673	Retrograde ejaculation
+C2242996	Tingling sensation
+C0948268	Haemodynamic instability
+C0035522	Rib fracture
+C0017178	Gastrointestinal disorder
+C0031350	Pharyngitis
+C0151737	Intentional injury
+C0021290	Neonatal disorder
+C0151830	Urethral pain
+C0036749	Serositis
+C0542008	Injection site haematoma
+C0020640	Factor II deficiency
+C0520904	Nausea postoperative
+C0003813	Sinus arrhythmia
+C0553737	Cervical discharge
+C2938875	Upper-airway cough syndrome
+C0003175	Anthrax
+C0002871	Anaemia
+C0024138	Discoid lupus erythematosus
+C0220983	Metabolic alkalosis
+C0039446	Telangiectasia
+C0151848	Acid phosphatase high
+C0040264	Tinnitus
+C0234952	Oropharyngeal spasm
+C0264906	Atrioventricular block second degree
+C0859062	Serum bilirubin increased
+C0948294	Eyelid margin crusting
+C0340865	Anaphylactoid reaction
+C0149512	Acute sinusitis
+C0086227	Enterobiasis
+C0860987	Phosphate low
+C1167654	Acute prerenal failure
+C0032914	Pre-eclampsia
+C1096444	Altered visual depth perception
+C1262022	Freezing phenomenon
+C0239513	Pallor facial
+C0155428	Otosalpingitis
+C0003431	Antisocial personality disorder
+C0001175	Acquired immunodeficiency syndrome
+C0558401	Skin laceration
+C0031190	Persistent foetal circulation
+C0341512	Retroperitoneal haematoma
+C0042023	Pollakiuria
+C0037672	Somnambulism
+C0001339	Pancreatitis acute
+C0030567	Parkinson's disease
+C0558368	Vaginal irritation
+C0348024	Dysfunction thyroid
+C0035067	Renal artery stenosis
+C0344232	Vision blurred
+C0701811	Short-term memory loss
+C0740464	Electrolytes NOS decreased
+C0235744	Breath holding
+C0162848	Eruption lichenoid
+C0241164	Skin tenderness
+C0853644	Eosinophil count abnormal
+C0853737	Blood bicarbonate increased
+C0235980	Scleral discolouration
+C0020488	Hypernatraemia
+C0155169	Ocular hyperaemia
+C0702109	Erythropoiesis abnormal
+C0035854	Rosacea
+C0239295	Oesophageal candidiasis
+C0149707	Haematospermia
+C0852913	Blood amylase increased
+C0040038	Thromboembolism
+C0919909	Tonic clonic movements
+C0236106	Photosensitivity allergic reaction
+C0233973	Painful erection
+C0847033	Allergic oedema
+C0235378	Hepatotoxicity
+C0033778	Pruritus vulvae
+C0007286	Carpal tunnel syndrome
+C0026650	Movement disorder
+C0002726	Amyloidosis
+C0033774	Pruritus
+C0018021	Goitre
+C0003862	Arthralgia
+C0038450	Stridor
+C0085631	Agitation
+C0699790	Carcinoma colon
+C0423823	Nail thinning
+C0455769	Energy increased
+C0042376	Vascular headache
+C0021364	Infertility male
+C0020514	Hyperprolactinaemia
+C0018772	Partial hearing loss
+C0152021	Heart disease congenital
+C0854402	Mechanical complication of implant
+C1112214	Vulvovaginal pruritus
+C0025320	Menopause
+C0023223	Leg ulcer
+C0574785	Lower urinary tract symptoms
+C0015624	Fanconi syndrome
+C0700292	Hypoxemia
+C0018552	Hamartoma
+C0017566	Gingival hyperplasia
+C0522251	Sinus pain
+C0028734	Nocturia
+C2979982	Vaginal haemorrhage
+C0234922	Rash scaly
+C1266194	Hodgkin's disease lymphocyte predominance type stage unspecified
+C0861021	Insulin C-peptide increased
+C0155626	Acute myocardial infarction
+C0948048	Malignant neoplasm progression
+C0014550	Myoclonic epilepsy
+C0700345	Vulvovaginal candidiasis
+C0037286	Neoplasm skin
+C0392390	Hepatitis B e antigen positive
+C0341117	Esophageal erosions
+C0277899	Pulse absent
+C0000731	Abdominal distension
+C0021092	Cerumen impaction
+C0876994	Cardiotoxicity
+C0423226	Corneal pigmentation
+C0011581	Depressive disorder
+C0015397	Eye disorder
+C0232602	Retching
+C0699828	Serotonin syndrome
+C0438717	Transaminases increased
+C0022073	Iridocyclitis
+C0580413	Prothrombin time shortened
+C0877225	Bone density decreased
+C0947912	Myasthenia
+C0425945	Prolonged menses
+C0264268	Nasal septum ulceration
+C0392674	Exhaustion
+C0521465	Toxic skin eruption
+C0235855	Sepsis secondary
+C0235031	Neurological symptom
+C0151785	Mucous membrane disorder
+C0235222	Diastolic hypertension
+C0270795	Monoparesis
+C0018799	Cardiac disorder
+C0349790	Exacerbation of asthma
+C0001818	Agoraphobia
+C1561643	Chronic kidney disease
+C0878773	Hypertonic bladder
+C0009377	Colonic pseudo-obstruction
+C0036980	Cardiogenic shock
+C1323189	Dermatitis infected
+C1611162	Plateletcrit decreased
+C0267940	Pancreatitis haemorrhagic
+C0877027	Joint range of motion decreased
+C1095923	Febrile bone marrow aplasia
+C0162820	Allergic contact dermatitis
+C1167709	Epidermal necrosis
+C2239176	Hepatocellular carcinoma
+C0151970	Oesophageal ulcer
+C0013144	Drowsiness
+C2242583	Acute liver injury
+C0424823	Parotid swelling
+C0151579	Crystalluria
+C0743841	Febrile disorders
+C0858678	Alopecia reversible
+C0149745	Mouth ulceration
+C0154822	Serous retinal detachment
+C0919591	Urogenital haemorrhage
+C1504537	Vegetative dystonia
+C0034935	Extensor plantar response
+C0409962	Localized osteoarthritis
+C0041105	Trismus
+C1510586	Autism spectrum disorder
+C0221152	Obstipation
+C0856623	Orofacial oedema
+C0085082	Fungaemia
+C0034063	Pulmonary oedema
+C3495700	Atypical fracture
+C0393761	Middle insomnia
+C0338575	Superior sagittal sinus thrombosis
+C0017563	Gingival disorder
+C0086543	Cataract
+C0600104	Compulsions
+C1619727	Decompensated cirrhosis
+C0034735	Raynaud's phenomenon
+C0151465	Renal abscess
+C1535893	Orthostatic intolerance
+C0026766	Multi-organ failure
+C0034186	Pyelonephritis
+C0006272	Obliterative bronchiolitis
+C1262281	Thrombosis in device
+C0015927	Foetal death
+C1142249	Infected cyst
+C0006105	Brain abscess
+C0813230	Serum triglycerides increased
+C0152032	Urinary hesitation
+C0013491	Ecchymosis
+C0232257	Systolic murmur
+C0012797	Diuresis
+C0232487	Abdominal discomfort
+C1579838	Sore mouth
+C0157733	Abnormalities of the hair
+C0858535	Thrombocytopenia toxic
+C0234373	Tremor fine
+C0025202	Malignant melanoma
+C0231451	Joint hyperextension
+C0852969	Tongue irritation
+C0234146	Areflexia
+C0542571	Face oedema
+C0001126	Renal tubular acidosis
+C0009450	Infection
+C0338908	Anxiety depression
+C0240059	Intraventricular haemorrhage
+C0029560	Other conjunctivitis
+C0022951	Lactose intolerance
+C0026393	Molluscum contagiosum
+C0270810	Peroneal nerve palsy
+C1527344	Dysphonia
+C0235818	Bullous eruption
+C0270790	Quadriparesis
+C0018378	Guillain-Barre syndrome
+C0423271	Scleral hyperaemia
+C0549346	Ischial neuralgia
+C0018418	Gynaecomastia
+C0392386	Platelet count decreased
+C0235834	Upper motor neurone lesion
+C0041747	Unintended pregnancy
+C0155145	Chronic conjunctivitis
+C0152009	WBC abnormal NOS
+C3495797	Peripheral artery stenosis
+C0426576	Gastrointestinal symptom NOS
+C1142524	Asymptomatic hyperlactatemia
+C0553692	Haemorrhagic stroke
+C0016034	Fibrocystic breast disease
+C1527340	Voice disturbance
+C0040517	Tourette's disorder
+C0274702	Cholinergic syndrome
+C0005699	Blast cell crisis
+C0014457	Eosinophilia
+C0403639	Chemical cystitis
+C0028077	Night blindness
+C0161479	Nerve injury
+C0422974	Halo vision
+C0158350	Tendinous contracture
+C0159321	Facial bones fracture
+C0221155	Systolic hypertension
+C0085639	Fall
+C0026946	Fungal infection
+C0277884	Blood pressure systolic increased
+C0004604	Back pain
+C0745528	Klebsiella sepsis
+C0277589	Found dead (cause undetermined)
+C0032320	Pneumoperitoneum
+C0037274	Skin disorder
+C0007867	Cervix disorder
+C0151859	Polyserositis
+C0019069	Factor VIII deficiency
+C1257843	Pseudomembranous colitis
+C0022593	Keratosis
+C0392039	Ovarian enlargement
+C0392703	Shakiness
+C0936250	Eczema herpeticum
+C0521161	Vasculitic rash
+C0405479	Nipple disorder
+C0239819	Edema hands
+C3267047	Immune-mediated necrotising myopathy
+C0037928	Spinal cord disorder
+C0014733	Erysipelas
+C1963790	Vulvovaginal burning sensation
+C0234215	Discomfort
+C0238621	Aminoaciduria
+C0016167	Anal fissure
+C0282005	Scrotal swelling
+C0859253	Microhemorrhage
+C0235437	Gravitational oedema
+C0080179	Spinal fracture
+C0549385	Feeling of body temperature change
+C0263437	Acne infantile
+C0334634	Mantle cell lymphoma
+C0037822	Speech disorder
+C0595939	Stillbirth
+C0031111	Periostitis
+C0851362	General disorders and administration site conditions
+C0162810	Hypertrophic scar
+C0042963	Vomiting
+C0238106	Clostridium difficile colitis
+C0014863	Oesophageal spasm
+C0007117	Basal cell carcinoma
+C1704320	Glomerulonephritis minimal lesion
+C0085129	Bronchial hyperreactivity
+C0860864	Albumin low
+C1096256	Cryptococcal cutaneous infection
+C1328407	Hip dysplasia
+C0749249	Wide complex tachycardia
+C0235295	Abdominal distress
+C0018817	Atrial septal defect
+C0002874	Aplastic anaemia
+C0854442	Injection site hypertrophy
+C0151702	Muscle haemorrhage
+C0700361	Emotional distress
+C1112746	Hepatic lymphoma
+C1510472	Drug dependence
+C0341245	Duodenitis haemorrhagic
+C2712122	Blood pressure normal
+C0221490	Epigastric distress
+C0007933	Chalazion
+C0024031	Low back pain
+C0521491	Application site pain
+C0085096	Peripheral vascular disorder
+C0080276	Urogenital disorder
+C0281778	Anal abscess
+C0231529	Tendon pain
+C0158570	Vascular anomaly
+C0037188	Sinoatrial block
+C0151190	Palpable purpura
+C0235839	Fever neonatal
+C0004239	Atrial flutter
+C0852932	Arthropod sting
+C0042035	Micturition disorder
+C0028841	Hypotony of eye
+C0877338	Breast discomfort
+C0151735	Injection site reaction
+C0041601	Ulna fracture
+C0231528	Myalgia
+C0006444	Bursitis
+C0151795	Injection site necrosis
+C0036690	Septicemia
+C0549448	Haemoglobin increased
+C0020542	Pulmonary hypertension
+C0206277	Fatal outcomes
+C0004936	Mental disorder
+C0020701	Hysteria
+C0239340	Edema of lower extremities
+C1306577	Death
+C0022602	Actinic keratosis
+C1522058	Coagulation necrosis
+C1096278	Anterior chamber inflammation
+C0019209	Hepatomegaly
+C0877047	Occult blood positive
+C0270996	Eye swelling
+C0003507	Aortic valve stenosis
+C0948089	Acute coronary syndrome
+C1868752	Procedural nausea
+C0521592	Hypoaesthesia oral
+C2721563	Infectious pneumonitis
+C0008370	Cholestasis
+C0021400	Influenza
+C0087169	Withdrawal symptom
+C0858899	Attention concentration difficulty
+C0332601	Cushingoid
+C0023798	Lipoma
+C0151205	Periorbital oedema
+C0032584	Polyp
+C0042170	Vogt-Koyanagi-Harada syndrome
+C0025637	Methaemoglobinaemia
+C0877203	Respiratory tract infection viral
+C0694575	Macular fibrosis
+C0434437	Joint sprain
+C0423773	Skin scaly
+C0007642	Cellulitis
+C0151744	Myocardial ischaemia
+C0549463	X-linked lymphoproliferative syndrome
+C0007780	Cerebral artery embolism
+C0343863	Genital candidiasis
+C0235416	Blood uric acid increased
+C1096657	Prostate examination abnormal
+C0034040	Postpartum disorder
+C0559031	Functional gastrointestinal disorder
+C0877055	Acute generalised exanthematous pustulosis
+C2225524	Breast enlargement
+C0027080	Myoglobinuria
+C0919702	Ventricular hypokinesia
+C0235660	Galactorrhoea
+C0038506	Stuttering
+C0039584	Testicular disorder
+C1510410	Parosmia
+C0151603	Generalised oedema
+C0006849	Oral candidiasis
+C0520886	Electrocardiogram ST segment elevation
+C0233523	Antisocial behaviour
+C0241635	Vaginal erythema
+C0853813	Local reaction
+C0919894	Nasal mucosal disorder
+C0270327	Nocturnal enuresis
+C0542075	Local throat irritation
+C0001349	Acute phase reaction
+C0019048	Haemoglobinuria
+C2939419	Metastatic neoplasm
+C0151934	Hypogeusia
+C0029464	Osteosclerosis
+C0039240	Supraventricular tachycardia
+C0850149	Dry cough
+C1868769	Anaphylactoid syndrome of pregnancy
+C0018926	Haematemesis
+C0041657	Loss of consciousness
+C0694563	Excessive daytime sleepiness
+C0151729	Immunoglobulins increased
+C0011606	Dermatitis exfoliative
+C0684249	Carcinoma of lung
+C0006852	Vaginal moniliasis
+C0856171	Coronary artery disease aggravated
+C0162285	Eyelid oedema
+C0549536	Monocyte count decreased
+C0920103	Haematotoxicity
+C1096458	Vascular occlusion
+C0332575	Redness
+C0232461	Increased appetite
+C1258215	Ileus
+C0853123	Blood luteinising hormone increased
+C0558489	Renal pain
+C0022876	Premature labour
+C0240972	Scrotal erythema
+C0020523	Type I hypersensitivity
+C0155947	Dentofacial anomaly
+C1145670	Respiratory failure
+C3544094	Arterial thromboembolism
+C0024236	Lymphoedema
+C0022656	Renal cortical necrosis
+C0009492	Compartment syndrome
+C0017601	Glaucoma
+C0231835	Tachypnoea
+C0033771	Prurigo
+C0235025	Peripheral motor neuropathy
+C0001416	Adenitis
+C0026266	Mitral valve incompetence
+C1510497	Lenticular opacities
+C0423006	Eye discharge
+C0007868	Cervical dysplasia
+C0152128	Drug withdrawal syndrome
+C0747102	Ovarian failure
