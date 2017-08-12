@@ -1,4 +1,3 @@
-umlsId	name
 C1263960	Diabetic coma
 C0424109	Tearfulness
 C0009421	Coma
@@ -146,7 +145,7 @@ C0575081	Gait disturbance
 C0520477	Prostatic adenoma
 C0595879	Sodium high
 C0432487	Post transplant lymphoproliferative disorder
-C0233763	Hallucination	 visual
+C0233763	Hallucination visual
 C0152020	Gastric atony
 C1096195	Thyroglobulin increased
 C0039503	Tendonitis
