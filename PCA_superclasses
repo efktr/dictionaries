@@ -1,0 +1,45 @@
+SYSTEM INDEPENDENT
+0 Abdominal pain
+8 Arthralgia
+9 Asthenia
+17 Cough
+23 Dyspnoea
+27 Fatigue
+34 Hyperhidrosis
+46 Paraesthesia
+52 Syncope
+56 Loss of consciousness
+62 Dry mouth
+68 Malaise
+69 Myalgia
+70 Decreased appetite
+72 Discomfort
+76 Musculoskeletal discomfort
+77 Feeling abnormal
+78 Ill-defined disorder
+
+BRAIN
+14 Confusional state
+43 Nervousness
+55 Tremor
+64 Agitation
+71 Tension
+79 Somnolence
+
+HEART
+33 Cardiac disorder
+37 Hypotension
+45 Palpitations
+49 Shock
+52 Syncope
+53 Tachycardia
+55 Tremor
+56 Loss of consciousness
+59 Angiopathy
+64 Agitation
+
+GASTRO
+5 Anorexia
+16 Constipation
+22 Dyspepsia
+70 Decreased appetite
